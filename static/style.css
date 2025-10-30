@@ -1,0 +1,509 @@
+/* Naeilum Styles - Modern and Clean */
+
+:root {
+    --primary-color: #4A90E2;
+    --secondary-color: #7B68EE;
+    --accent-color: #FF6B6B;
+    --success-color: #4CAF50;
+    --text-dark: #2C3E50;
+    --text-light: #7F8C8D;
+    --bg-light: #F8F9FA;
+    --bg-white: #FFFFFF;
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.1);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.15);
+    --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.2);
+    --border-radius: 12px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--text-dark);
+    padding: 20px;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+    background: var(--bg-white);
+    border-radius: 20px;
+    box-shadow: var(--shadow-lg);
+    overflow: hidden;
+    position: relative;
+}
+
+/* Screen Management */
+.screen {
+    display: none;
+    padding: 40px 30px;
+    animation: fadeIn 0.4s ease;
+    min-height: 500px;
+    position: relative;
+}
+
+.screen.active {
+    display: block;
+}
+
+/* Back Button */
+.back-button {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: transparent;
+    border: none;
+    color: var(--text-light);
+    font-size: 16px;
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.back-button:hover {
+    background: var(--bg-light);
+    color: var(--primary-color);
+}
+
+/* Logo and Welcome Screen */
+.logo-section {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    font-size: 24px;
+    color: var(--text-light);
+    margin-bottom: 8px;
+}
+
+.tagline {
+    font-size: 18px;
+    color: var(--text-dark);
+    font-weight: 500;
+}
+
+.intro-text {
+    text-align: center;
+    margin-bottom: 40px;
+    line-height: 1.6;
+    color: var(--text-dark);
+}
+
+/* Forms */
+.form-group {
+    margin-bottom: 25px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: var(--text-dark);
+    font-size: 14px;
+}
+
+.form-group input[type="text"] {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid #E0E0E0;
+    border-radius: var(--border-radius);
+    font-size: 16px;
+    transition: all 0.3s ease;
+}
+
+.form-group input[type="text"]:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(74, 144, 226, 0.1);
+}
+
+/* Radio Buttons */
+.radio-group {
+    display: flex;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+.radio-label {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 12px 20px;
+    border: 2px solid #E0E0E0;
+    border-radius: var(--border-radius);
+    transition: all 0.3s ease;
+    flex: 1;
+}
+
+.radio-label:hover {
+    border-color: var(--primary-color);
+    background: rgba(74, 144, 226, 0.05);
+}
+
+.radio-label input[type="radio"] {
+    margin-right: 8px;
+}
+
+.radio-label input[type="radio"]:checked + span {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+/* Buttons */
+.btn-primary, .btn-secondary {
+    width: 100%;
+    padding: 14px 24px;
+    border: none;
+    border-radius: var(--border-radius);
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-bottom: 12px;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+.btn-secondary {
+    background: var(--bg-light);
+    color: var(--text-dark);
+}
+
+.btn-secondary:hover {
+    background: #E0E0E0;
+}
+
+/* Name Cards */
+.name-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-top: 20px;
+}
+
+.name-card {
+    background: var(--bg-light);
+    padding: 20px;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.name-card:hover {
+    border-color: var(--primary-color);
+    transform: translateX(5px);
+    box-shadow: var(--shadow-md);
+}
+
+.name-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.korean-name {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--text-dark);
+}
+
+.hanja {
+    font-size: 18px;
+    color: var(--text-light);
+}
+
+.name-meaning {
+    font-size: 14px;
+    color: var(--text-dark);
+    line-height: 1.5;
+    margin-top: 8px;
+}
+
+.name-category-badge {
+    display: inline-block;
+    padding: 4px 12px;
+    background: var(--primary-color);
+    color: white;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+/* Result Card */
+.result-card {
+    background: var(--bg-light);
+    padding: 30px;
+    border-radius: var(--border-radius);
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.korean-name-display h1 {
+    font-size: 48px;
+    color: var(--text-dark);
+    margin-bottom: 10px;
+}
+
+.korean-name-display p {
+    font-size: 28px;
+    color: var(--text-light);
+    margin-bottom: 20px;
+}
+
+.name-meaning h3 {
+    color: var(--primary-color);
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.name-meaning p {
+    line-height: 1.6;
+    color: var(--text-dark);
+    margin-bottom: 10px;
+}
+
+.name-category {
+    color: var(--text-light);
+    font-size: 14px;
+}
+
+.name-category span {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.original-name {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #E0E0E0;
+    color: var(--text-light);
+}
+
+/* Fortune Cards */
+.fortune-cards {
+    display: grid;
+    gap: 16px;
+    margin-top: 20px;
+}
+
+.fortune-card {
+    background: var(--bg-light);
+    padding: 20px;
+    border-radius: var(--border-radius);
+    border-left: 4px solid var(--primary-color);
+}
+
+.fortune-category {
+    font-weight: 700;
+    color: var(--primary-color);
+    margin-bottom: 8px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.fortune-message {
+    color: var(--text-dark);
+    line-height: 1.6;
+    font-style: italic;
+}
+
+.fortune-date {
+    text-align: center;
+    color: var(--text-light);
+    margin-bottom: 20px;
+}
+
+.fortune-note {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    background: rgba(74, 144, 226, 0.1);
+    border-radius: var(--border-radius);
+    color: var(--text-dark);
+}
+
+/* Loading Overlay */
+.loading-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.95);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 1000;
+    border-radius: 20px;
+}
+
+.loading-overlay.active {
+    display: flex;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 4px solid var(--bg-light);
+    border-top-color: var(--primary-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 20px;
+}
+
+/* Instructions */
+.instruction {
+    text-align: center;
+    color: var(--text-light);
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+/* Footer Links */
+.footer-links {
+    text-align: center;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--bg-light);
+    font-size: 14px;
+}
+
+.footer-links a {
+    color: var(--primary-color);
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+/* Page Content (for about/privacy pages) */
+.page-content {
+    padding: 40px;
+}
+
+.page-content h1 {
+    color: var(--text-dark);
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.page-content h2 {
+    color: var(--text-dark);
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 24px;
+}
+
+.page-content h3 {
+    color: var(--text-dark);
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.page-content p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+    color: var(--text-dark);
+}
+
+.page-content ul {
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.page-content ul li {
+    margin-bottom: 8px;
+    line-height: 1.6;
+}
+
+.page-content section {
+    margin-bottom: 30px;
+}
+
+.last-updated {
+    color: var(--text-light);
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .container {
+        border-radius: 0;
+        min-height: 100vh;
+    }
+
+    .screen {
+        padding: 30px 20px;
+    }
+
+    .title {
+        font-size: 36px;
+    }
+
+    .radio-group {
+        flex-direction: column;
+    }
+
+    .back-button {
+        top: 10px;
+        left: 10px;
+    }
+}

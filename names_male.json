@@ -1,0 +1,7010 @@
+[
+  {
+    "name": "송월선",
+    "hanja": "宋蔚宣",
+    "category": "Wisdom",
+    "meaning": "One who proclaims great wisdom like a pine tree",
+    "initial": "W",
+    "special_match": "Wilson Smith"
+  },
+  {
+    "name": "시우",
+    "hanja": "娜宰",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "Y"
+  },
+  {
+    "name": "성민",
+    "hanja": "彩弼",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "Q"
+  },
+  {
+    "name": "현우",
+    "hanja": "娜昊",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "Y"
+  },
+  {
+    "name": "하준",
+    "hanja": "眞炫",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "M"
+  },
+  {
+    "name": "지훈",
+    "hanja": "花基",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "X"
+  },
+  {
+    "name": "시우",
+    "hanja": "恩成",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "E"
+  },
+  {
+    "name": "현준",
+    "hanja": "柔永",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "Y"
+  },
+  {
+    "name": "우진",
+    "hanja": "雅周",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "D"
+  },
+  {
+    "name": "시우",
+    "hanja": "心鎭",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "U"
+  },
+  {
+    "name": "지훈",
+    "hanja": "映基",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "U"
+  },
+  {
+    "name": "승우",
+    "hanja": "京永",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "O"
+  },
+  {
+    "name": "재윤",
+    "hanja": "智燦",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "L"
+  },
+  {
+    "name": "수현",
+    "hanja": "娜基",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "N"
+  },
+  {
+    "name": "지훈",
+    "hanja": "希泰",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "E"
+  },
+  {
+    "name": "재윤",
+    "hanja": "智潾",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "K"
+  },
+  {
+    "name": "하준",
+    "hanja": "順民",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "X"
+  },
+  {
+    "name": "도현",
+    "hanja": "希炫",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "J"
+  },
+  {
+    "name": "준우",
+    "hanja": "潤宰",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "C"
+  },
+  {
+    "name": "서준",
+    "hanja": "恩浩",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "X"
+  },
+  {
+    "name": "서준",
+    "hanja": "潾永",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "E"
+  },
+  {
+    "name": "재윤",
+    "hanja": "京潾",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "N"
+  },
+  {
+    "name": "지호",
+    "hanja": "智鎭",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "R"
+  },
+  {
+    "name": "재윤",
+    "hanja": "雅榮",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "X"
+  },
+  {
+    "name": "준호",
+    "hanja": "潤昊",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "P"
+  },
+  {
+    "name": "현준",
+    "hanja": "慧成",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "A"
+  },
+  {
+    "name": "유준",
+    "hanja": "彩民",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "T"
+  },
+  {
+    "name": "준우",
+    "hanja": "珠勇",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "C"
+  },
+  {
+    "name": "수현",
+    "hanja": "柔弼",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "J"
+  },
+  {
+    "name": "지훈",
+    "hanja": "娜昊",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "B"
+  },
+  {
+    "name": "우진",
+    "hanja": "潾鎭",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "I"
+  },
+  {
+    "name": "지호",
+    "hanja": "智鎭",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "P"
+  },
+  {
+    "name": "지호",
+    "hanja": "恩俊",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "B"
+  },
+  {
+    "name": "도윤",
+    "hanja": "恩浩",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "Q"
+  },
+  {
+    "name": "민재",
+    "hanja": "瑛榮",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "T"
+  },
+  {
+    "name": "우진",
+    "hanja": "順基",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "O"
+  },
+  {
+    "name": "준호",
+    "hanja": "恩哲",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "E"
+  },
+  {
+    "name": "태윤",
+    "hanja": "恩燦",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "G"
+  },
+  {
+    "name": "현준",
+    "hanja": "潾浩",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "R"
+  },
+  {
+    "name": "준우",
+    "hanja": "花鎭",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "R"
+  },
+  {
+    "name": "도윤",
+    "hanja": "潤燦",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "Y"
+  },
+  {
+    "name": "도윤",
+    "hanja": "彩永",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "O"
+  },
+  {
+    "name": "승우",
+    "hanja": "慧賢",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "P"
+  },
+  {
+    "name": "준우",
+    "hanja": "心鎭",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "Z"
+  },
+  {
+    "name": "지훈",
+    "hanja": "花榮",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "T"
+  },
+  {
+    "name": "서준",
+    "hanja": "珠俊",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "R"
+  },
+  {
+    "name": "도현",
+    "hanja": "希燦",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "U"
+  },
+  {
+    "name": "민재",
+    "hanja": "星燦",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "X"
+  },
+  {
+    "name": "민재",
+    "hanja": "星弼",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "F"
+  },
+  {
+    "name": "민재",
+    "hanja": "希潾",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "H"
+  },
+  {
+    "name": "도윤",
+    "hanja": "柔昊",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "S"
+  },
+  {
+    "name": "수현",
+    "hanja": "星昊",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "T"
+  },
+  {
+    "name": "재윤",
+    "hanja": "映浩",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "P"
+  },
+  {
+    "name": "태윤",
+    "hanja": "順周",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "K"
+  },
+  {
+    "name": "지훈",
+    "hanja": "雅俊",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "X"
+  },
+  {
+    "name": "하준",
+    "hanja": "彩潤",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "C"
+  },
+  {
+    "name": "유준",
+    "hanja": "善浩",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "R"
+  },
+  {
+    "name": "민재",
+    "hanja": "京周",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "Q"
+  },
+  {
+    "name": "시우",
+    "hanja": "映成",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "A"
+  },
+  {
+    "name": "지훈",
+    "hanja": "京賢",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "F"
+  },
+  {
+    "name": "우진",
+    "hanja": "柔弼",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "A"
+  },
+  {
+    "name": "태윤",
+    "hanja": "映民",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "S"
+  },
+  {
+    "name": "성민",
+    "hanja": "潾弼",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "N"
+  },
+  {
+    "name": "도현",
+    "hanja": "彩基",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "J"
+  },
+  {
+    "name": "현준",
+    "hanja": "瑛信",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "U"
+  },
+  {
+    "name": "시우",
+    "hanja": "雅宇",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "Q"
+  },
+  {
+    "name": "수현",
+    "hanja": "柔宰",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "N"
+  },
+  {
+    "name": "성민",
+    "hanja": "賢宇",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "L"
+  },
+  {
+    "name": "우진",
+    "hanja": "映賢",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "V"
+  },
+  {
+    "name": "시우",
+    "hanja": "映潤",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "H"
+  },
+  {
+    "name": "도현",
+    "hanja": "善信",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "B"
+  },
+  {
+    "name": "민재",
+    "hanja": "美潾",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "B"
+  },
+  {
+    "name": "시우",
+    "hanja": "花泰",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "R"
+  },
+  {
+    "name": "승우",
+    "hanja": "美信",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "E"
+  },
+  {
+    "name": "하준",
+    "hanja": "賢泰",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "U"
+  },
+  {
+    "name": "지호",
+    "hanja": "京哲",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "L"
+  },
+  {
+    "name": "시우",
+    "hanja": "順周",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "H"
+  },
+  {
+    "name": "준호",
+    "hanja": "珠炫",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "Q"
+  },
+  {
+    "name": "태윤",
+    "hanja": "賢弼",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "W"
+  },
+  {
+    "name": "민준",
+    "hanja": "雅信",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "L"
+  },
+  {
+    "name": "지훈",
+    "hanja": "善宰",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "V"
+  },
+  {
+    "name": "태윤",
+    "hanja": "映成",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "L"
+  },
+  {
+    "name": "도윤",
+    "hanja": "善成",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "J"
+  },
+  {
+    "name": "현준",
+    "hanja": "善周",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "T"
+  },
+  {
+    "name": "하준",
+    "hanja": "希鎭",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "X"
+  },
+  {
+    "name": "승우",
+    "hanja": "娜榮",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "U"
+  },
+  {
+    "name": "도윤",
+    "hanja": "映宰",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "C"
+  },
+  {
+    "name": "수현",
+    "hanja": "娜永",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "Q"
+  },
+  {
+    "name": "민재",
+    "hanja": "慧浩",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "Z"
+  },
+  {
+    "name": "도윤",
+    "hanja": "希信",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "C"
+  },
+  {
+    "name": "하준",
+    "hanja": "眞鎭",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "C"
+  },
+  {
+    "name": "현우",
+    "hanja": "賢弼",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "E"
+  },
+  {
+    "name": "현준",
+    "hanja": "恩鎭",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "U"
+  },
+  {
+    "name": "민재",
+    "hanja": "智成",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "D"
+  },
+  {
+    "name": "태윤",
+    "hanja": "眞潤",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "B"
+  },
+  {
+    "name": "수현",
+    "hanja": "潾潾",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "S"
+  },
+  {
+    "name": "현준",
+    "hanja": "花允",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "L"
+  },
+  {
+    "name": "민준",
+    "hanja": "順宇",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "Y"
+  },
+  {
+    "name": "수현",
+    "hanja": "雅永",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "I"
+  },
+  {
+    "name": "태윤",
+    "hanja": "珠潤",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "G"
+  },
+  {
+    "name": "우진",
+    "hanja": "恩信",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "T"
+  },
+  {
+    "name": "현준",
+    "hanja": "恩永",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "L"
+  },
+  {
+    "name": "도윤",
+    "hanja": "美賢",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "D"
+  },
+  {
+    "name": "성민",
+    "hanja": "智基",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "U"
+  },
+  {
+    "name": "하준",
+    "hanja": "潾信",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "B"
+  },
+  {
+    "name": "현준",
+    "hanja": "雅民",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "F"
+  },
+  {
+    "name": "우진",
+    "hanja": "美燦",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "K"
+  },
+  {
+    "name": "민재",
+    "hanja": "星潤",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "C"
+  },
+  {
+    "name": "민준",
+    "hanja": "花哲",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "S"
+  },
+  {
+    "name": "지호",
+    "hanja": "映基",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "O"
+  },
+  {
+    "name": "시우",
+    "hanja": "花成",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "I"
+  },
+  {
+    "name": "수현",
+    "hanja": "順宰",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "S"
+  },
+  {
+    "name": "승우",
+    "hanja": "順哲",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "J"
+  },
+  {
+    "name": "태윤",
+    "hanja": "潾基",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "Z"
+  },
+  {
+    "name": "준우",
+    "hanja": "花信",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "Y"
+  },
+  {
+    "name": "민준",
+    "hanja": "彩泰",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "Q"
+  },
+  {
+    "name": "승우",
+    "hanja": "眞俊",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "A"
+  },
+  {
+    "name": "지훈",
+    "hanja": "慧賢",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "V"
+  },
+  {
+    "name": "재윤",
+    "hanja": "柔炫",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "O"
+  },
+  {
+    "name": "태윤",
+    "hanja": "恩基",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "Z"
+  },
+  {
+    "name": "하준",
+    "hanja": "京弼",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "B"
+  },
+  {
+    "name": "하준",
+    "hanja": "恩勇",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "N"
+  },
+  {
+    "name": "현준",
+    "hanja": "潤昊",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "N"
+  },
+  {
+    "name": "도현",
+    "hanja": "京宇",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "G"
+  },
+  {
+    "name": "현준",
+    "hanja": "星成",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "M"
+  },
+  {
+    "name": "준우",
+    "hanja": "心泰",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "L"
+  },
+  {
+    "name": "태윤",
+    "hanja": "心周",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "G"
+  },
+  {
+    "name": "서준",
+    "hanja": "彩俊",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "W"
+  },
+  {
+    "name": "준호",
+    "hanja": "恩永",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "Z"
+  },
+  {
+    "name": "재윤",
+    "hanja": "美信",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "O"
+  },
+  {
+    "name": "지호",
+    "hanja": "善允",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "H"
+  },
+  {
+    "name": "재윤",
+    "hanja": "映宇",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "R"
+  },
+  {
+    "name": "태윤",
+    "hanja": "順宇",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "M"
+  },
+  {
+    "name": "준우",
+    "hanja": "善成",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "C"
+  },
+  {
+    "name": "우진",
+    "hanja": "慧成",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "U"
+  },
+  {
+    "name": "민재",
+    "hanja": "彩潾",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "Q"
+  },
+  {
+    "name": "태윤",
+    "hanja": "潾允",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "Y"
+  },
+  {
+    "name": "준우",
+    "hanja": "慧哲",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "I"
+  },
+  {
+    "name": "현준",
+    "hanja": "潤信",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "Z"
+  },
+  {
+    "name": "지호",
+    "hanja": "潤允",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "J"
+  },
+  {
+    "name": "민준",
+    "hanja": "柔炫",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "L"
+  },
+  {
+    "name": "하준",
+    "hanja": "彩俊",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "X"
+  },
+  {
+    "name": "준우",
+    "hanja": "柔宇",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "P"
+  },
+  {
+    "name": "하준",
+    "hanja": "恩賢",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "P"
+  },
+  {
+    "name": "태윤",
+    "hanja": "眞勇",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "Q"
+  },
+  {
+    "name": "도윤",
+    "hanja": "善成",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "Q"
+  },
+  {
+    "name": "지훈",
+    "hanja": "映宇",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "T"
+  },
+  {
+    "name": "태윤",
+    "hanja": "順炫",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "E"
+  },
+  {
+    "name": "지훈",
+    "hanja": "希昊",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "M"
+  },
+  {
+    "name": "도현",
+    "hanja": "星榮",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "H"
+  },
+  {
+    "name": "민준",
+    "hanja": "美周",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "N"
+  },
+  {
+    "name": "지호",
+    "hanja": "美泰",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "P"
+  },
+  {
+    "name": "우진",
+    "hanja": "花泰",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "H"
+  },
+  {
+    "name": "성민",
+    "hanja": "娜成",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "D"
+  },
+  {
+    "name": "현우",
+    "hanja": "潤民",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "D"
+  },
+  {
+    "name": "민준",
+    "hanja": "娜鎭",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "E"
+  },
+  {
+    "name": "준우",
+    "hanja": "順榮",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "C"
+  },
+  {
+    "name": "도현",
+    "hanja": "彩允",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "R"
+  },
+  {
+    "name": "현우",
+    "hanja": "雅榮",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "U"
+  },
+  {
+    "name": "우진",
+    "hanja": "花哲",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "P"
+  },
+  {
+    "name": "지호",
+    "hanja": "彩勇",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "M"
+  },
+  {
+    "name": "준우",
+    "hanja": "彩信",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "I"
+  },
+  {
+    "name": "성민",
+    "hanja": "美炫",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "Y"
+  },
+  {
+    "name": "수현",
+    "hanja": "賢允",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "I"
+  },
+  {
+    "name": "하준",
+    "hanja": "娜燦",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "C"
+  },
+  {
+    "name": "지훈",
+    "hanja": "映泰",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "R"
+  },
+  {
+    "name": "시우",
+    "hanja": "京浩",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "Q"
+  },
+  {
+    "name": "하준",
+    "hanja": "娜成",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "B"
+  },
+  {
+    "name": "시우",
+    "hanja": "花俊",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "E"
+  },
+  {
+    "name": "민재",
+    "hanja": "瑛信",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "L"
+  },
+  {
+    "name": "지호",
+    "hanja": "潾炫",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "O"
+  },
+  {
+    "name": "민준",
+    "hanja": "星燦",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "M"
+  },
+  {
+    "name": "준우",
+    "hanja": "希成",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "M"
+  },
+  {
+    "name": "지호",
+    "hanja": "珠宇",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "U"
+  },
+  {
+    "name": "수현",
+    "hanja": "京宇",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "H"
+  },
+  {
+    "name": "성민",
+    "hanja": "雅允",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "O"
+  },
+  {
+    "name": "유준",
+    "hanja": "娜周",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "T"
+  },
+  {
+    "name": "현준",
+    "hanja": "順周",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "B"
+  },
+  {
+    "name": "우진",
+    "hanja": "娜基",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "N"
+  },
+  {
+    "name": "준우",
+    "hanja": "潾勇",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "A"
+  },
+  {
+    "name": "재윤",
+    "hanja": "瑛鎭",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "L"
+  },
+  {
+    "name": "서준",
+    "hanja": "潾宰",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "H"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠浩",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "J"
+  },
+  {
+    "name": "준우",
+    "hanja": "映弼",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "N"
+  },
+  {
+    "name": "재윤",
+    "hanja": "眞周",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "I"
+  },
+  {
+    "name": "우진",
+    "hanja": "賢炫",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "K"
+  },
+  {
+    "name": "서준",
+    "hanja": "星榮",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "Z"
+  },
+  {
+    "name": "준호",
+    "hanja": "柔宇",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "T"
+  },
+  {
+    "name": "민준",
+    "hanja": "柔宰",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "U"
+  },
+  {
+    "name": "준우",
+    "hanja": "賢信",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "S"
+  },
+  {
+    "name": "우진",
+    "hanja": "賢哲",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "T"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠信",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "P"
+  },
+  {
+    "name": "도현",
+    "hanja": "恩基",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "W"
+  },
+  {
+    "name": "하준",
+    "hanja": "星宇",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "B"
+  },
+  {
+    "name": "서준",
+    "hanja": "恩炫",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "Y"
+  },
+  {
+    "name": "민재",
+    "hanja": "星宇",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "C"
+  },
+  {
+    "name": "현우",
+    "hanja": "恩燦",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "H"
+  },
+  {
+    "name": "지호",
+    "hanja": "花榮",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "Z"
+  },
+  {
+    "name": "민재",
+    "hanja": "心浩",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "L"
+  },
+  {
+    "name": "수현",
+    "hanja": "星民",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "F"
+  },
+  {
+    "name": "태윤",
+    "hanja": "恩民",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "P"
+  },
+  {
+    "name": "준우",
+    "hanja": "眞勇",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "K"
+  },
+  {
+    "name": "유준",
+    "hanja": "瑛宰",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "I"
+  },
+  {
+    "name": "민재",
+    "hanja": "眞潤",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "W"
+  },
+  {
+    "name": "지훈",
+    "hanja": "雅俊",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "E"
+  },
+  {
+    "name": "지훈",
+    "hanja": "映燦",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "C"
+  },
+  {
+    "name": "도현",
+    "hanja": "潾允",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "G"
+  },
+  {
+    "name": "우진",
+    "hanja": "恩昊",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "L"
+  },
+  {
+    "name": "승우",
+    "hanja": "柔炫",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "F"
+  },
+  {
+    "name": "유준",
+    "hanja": "慧宰",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "R"
+  },
+  {
+    "name": "우진",
+    "hanja": "慧勇",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "I"
+  },
+  {
+    "name": "시우",
+    "hanja": "娜潾",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "C"
+  },
+  {
+    "name": "도윤",
+    "hanja": "美潾",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "I"
+  },
+  {
+    "name": "민재",
+    "hanja": "善宰",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "C"
+  },
+  {
+    "name": "성민",
+    "hanja": "花哲",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "X"
+  },
+  {
+    "name": "도현",
+    "hanja": "美賢",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "Q"
+  },
+  {
+    "name": "우진",
+    "hanja": "恩泰",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "F"
+  },
+  {
+    "name": "지호",
+    "hanja": "雅俊",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "M"
+  },
+  {
+    "name": "태윤",
+    "hanja": "希鎭",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "V"
+  },
+  {
+    "name": "지훈",
+    "hanja": "潾浩",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "O"
+  },
+  {
+    "name": "준호",
+    "hanja": "順基",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "N"
+  },
+  {
+    "name": "시우",
+    "hanja": "娜勇",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "F"
+  },
+  {
+    "name": "도현",
+    "hanja": "恩潤",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "U"
+  },
+  {
+    "name": "태윤",
+    "hanja": "希允",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "A"
+  },
+  {
+    "name": "우진",
+    "hanja": "潤鎭",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "M"
+  },
+  {
+    "name": "유준",
+    "hanja": "善賢",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "G"
+  },
+  {
+    "name": "현우",
+    "hanja": "潤潤",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "O"
+  },
+  {
+    "name": "성민",
+    "hanja": "彩宇",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "Y"
+  },
+  {
+    "name": "재윤",
+    "hanja": "星燦",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "I"
+  },
+  {
+    "name": "유준",
+    "hanja": "恩民",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "S"
+  },
+  {
+    "name": "도윤",
+    "hanja": "娜民",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "C"
+  },
+  {
+    "name": "준호",
+    "hanja": "彩基",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "X"
+  },
+  {
+    "name": "하준",
+    "hanja": "善炫",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "E"
+  },
+  {
+    "name": "수현",
+    "hanja": "瑛燦",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "N"
+  },
+  {
+    "name": "태윤",
+    "hanja": "柔民",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "S"
+  },
+  {
+    "name": "도윤",
+    "hanja": "眞俊",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "Y"
+  },
+  {
+    "name": "지훈",
+    "hanja": "潤永",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "N"
+  },
+  {
+    "name": "준우",
+    "hanja": "善弼",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "R"
+  },
+  {
+    "name": "재윤",
+    "hanja": "瑛昊",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "B"
+  },
+  {
+    "name": "지호",
+    "hanja": "柔民",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "B"
+  },
+  {
+    "name": "재윤",
+    "hanja": "順潾",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "Z"
+  },
+  {
+    "name": "준우",
+    "hanja": "瑛信",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "O"
+  },
+  {
+    "name": "태윤",
+    "hanja": "映宰",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "Z"
+  },
+  {
+    "name": "현준",
+    "hanja": "順宇",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "A"
+  },
+  {
+    "name": "준우",
+    "hanja": "恩勇",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "I"
+  },
+  {
+    "name": "준호",
+    "hanja": "恩賢",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "Y"
+  },
+  {
+    "name": "시우",
+    "hanja": "智弼",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "W"
+  },
+  {
+    "name": "시우",
+    "hanja": "善潾",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "K"
+  },
+  {
+    "name": "수현",
+    "hanja": "希周",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "E"
+  },
+  {
+    "name": "우진",
+    "hanja": "花俊",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "P"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠允",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "J"
+  },
+  {
+    "name": "서준",
+    "hanja": "彩昊",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "V"
+  },
+  {
+    "name": "수현",
+    "hanja": "智泰",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "R"
+  },
+  {
+    "name": "민재",
+    "hanja": "潤燦",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "J"
+  },
+  {
+    "name": "지호",
+    "hanja": "賢浩",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "U"
+  },
+  {
+    "name": "도윤",
+    "hanja": "智鎭",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "L"
+  },
+  {
+    "name": "민재",
+    "hanja": "賢哲",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "J"
+  },
+  {
+    "name": "수현",
+    "hanja": "柔榮",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "I"
+  },
+  {
+    "name": "도현",
+    "hanja": "星宰",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "X"
+  },
+  {
+    "name": "지호",
+    "hanja": "雅俊",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "A"
+  },
+  {
+    "name": "준우",
+    "hanja": "娜鎭",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "Y"
+  },
+  {
+    "name": "태윤",
+    "hanja": "潾哲",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "M"
+  },
+  {
+    "name": "준호",
+    "hanja": "眞浩",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "W"
+  },
+  {
+    "name": "민준",
+    "hanja": "眞永",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "V"
+  },
+  {
+    "name": "수현",
+    "hanja": "京燦",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "P"
+  },
+  {
+    "name": "시우",
+    "hanja": "順燦",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "B"
+  },
+  {
+    "name": "도현",
+    "hanja": "彩潤",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "E"
+  },
+  {
+    "name": "수현",
+    "hanja": "花俊",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "D"
+  },
+  {
+    "name": "서준",
+    "hanja": "娜信",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "U"
+  },
+  {
+    "name": "준우",
+    "hanja": "映潾",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "J"
+  },
+  {
+    "name": "우진",
+    "hanja": "善弼",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "O"
+  },
+  {
+    "name": "현준",
+    "hanja": "花炫",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "S"
+  },
+  {
+    "name": "태윤",
+    "hanja": "花浩",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "G"
+  },
+  {
+    "name": "지훈",
+    "hanja": "星宰",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "I"
+  },
+  {
+    "name": "하준",
+    "hanja": "美泰",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "W"
+  },
+  {
+    "name": "도윤",
+    "hanja": "柔燦",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "E"
+  },
+  {
+    "name": "우진",
+    "hanja": "映宰",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "L"
+  },
+  {
+    "name": "유준",
+    "hanja": "花成",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "F"
+  },
+  {
+    "name": "도윤",
+    "hanja": "花榮",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "N"
+  },
+  {
+    "name": "지호",
+    "hanja": "雅周",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "J"
+  },
+  {
+    "name": "도윤",
+    "hanja": "星賢",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "Y"
+  },
+  {
+    "name": "수현",
+    "hanja": "花浩",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "M"
+  },
+  {
+    "name": "우진",
+    "hanja": "順鎭",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "V"
+  },
+  {
+    "name": "태윤",
+    "hanja": "瑛弼",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "A"
+  },
+  {
+    "name": "하준",
+    "hanja": "智周",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "E"
+  },
+  {
+    "name": "재윤",
+    "hanja": "映允",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "R"
+  },
+  {
+    "name": "우진",
+    "hanja": "慧弼",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "X"
+  },
+  {
+    "name": "지호",
+    "hanja": "潾賢",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "L"
+  },
+  {
+    "name": "시우",
+    "hanja": "瑛周",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "S"
+  },
+  {
+    "name": "현준",
+    "hanja": "雅信",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "P"
+  },
+  {
+    "name": "준호",
+    "hanja": "瑛成",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "C"
+  },
+  {
+    "name": "도윤",
+    "hanja": "瑛鎭",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "W"
+  },
+  {
+    "name": "수현",
+    "hanja": "潤成",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "K"
+  },
+  {
+    "name": "민준",
+    "hanja": "美信",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "C"
+  },
+  {
+    "name": "시우",
+    "hanja": "慧賢",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "M"
+  },
+  {
+    "name": "서준",
+    "hanja": "智榮",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "D"
+  },
+  {
+    "name": "준호",
+    "hanja": "賢勇",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "N"
+  },
+  {
+    "name": "민재",
+    "hanja": "彩宇",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "D"
+  },
+  {
+    "name": "도현",
+    "hanja": "善炫",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "L"
+  },
+  {
+    "name": "시우",
+    "hanja": "慧勇",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "M"
+  },
+  {
+    "name": "현우",
+    "hanja": "恩浩",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "L"
+  },
+  {
+    "name": "우진",
+    "hanja": "順哲",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "I"
+  },
+  {
+    "name": "하준",
+    "hanja": "潾成",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "E"
+  },
+  {
+    "name": "성민",
+    "hanja": "慧燦",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "W"
+  },
+  {
+    "name": "준호",
+    "hanja": "眞浩",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "A"
+  },
+  {
+    "name": "하준",
+    "hanja": "娜俊",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "C"
+  },
+  {
+    "name": "현우",
+    "hanja": "花宇",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "P"
+  },
+  {
+    "name": "성민",
+    "hanja": "花永",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "X"
+  },
+  {
+    "name": "승우",
+    "hanja": "美基",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "C"
+  },
+  {
+    "name": "준우",
+    "hanja": "雅燦",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "S"
+  },
+  {
+    "name": "준우",
+    "hanja": "希榮",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "U"
+  },
+  {
+    "name": "지훈",
+    "hanja": "珠俊",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "S"
+  },
+  {
+    "name": "승우",
+    "hanja": "潤周",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "W"
+  },
+  {
+    "name": "민재",
+    "hanja": "柔鎭",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "Q"
+  },
+  {
+    "name": "현준",
+    "hanja": "恩信",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "B"
+  },
+  {
+    "name": "민재",
+    "hanja": "京俊",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "X"
+  },
+  {
+    "name": "준우",
+    "hanja": "彩宰",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "N"
+  },
+  {
+    "name": "수현",
+    "hanja": "星潤",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "D"
+  },
+  {
+    "name": "지훈",
+    "hanja": "潾賢",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "K"
+  },
+  {
+    "name": "우진",
+    "hanja": "瑛潾",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "R"
+  },
+  {
+    "name": "준우",
+    "hanja": "眞允",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "W"
+  },
+  {
+    "name": "도윤",
+    "hanja": "恩永",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "X"
+  },
+  {
+    "name": "수현",
+    "hanja": "希潤",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "C"
+  },
+  {
+    "name": "준우",
+    "hanja": "善榮",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "L"
+  },
+  {
+    "name": "현준",
+    "hanja": "雅弼",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "Z"
+  },
+  {
+    "name": "민재",
+    "hanja": "瑛潤",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "D"
+  },
+  {
+    "name": "도현",
+    "hanja": "瑛俊",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "L"
+  },
+  {
+    "name": "재윤",
+    "hanja": "希成",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "E"
+  },
+  {
+    "name": "준우",
+    "hanja": "智鎭",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "Y"
+  },
+  {
+    "name": "도윤",
+    "hanja": "美弼",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "S"
+  },
+  {
+    "name": "수현",
+    "hanja": "潤允",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "O"
+  },
+  {
+    "name": "수현",
+    "hanja": "順炫",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "U"
+  },
+  {
+    "name": "도윤",
+    "hanja": "眞民",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "Q"
+  },
+  {
+    "name": "도현",
+    "hanja": "彩哲",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "Q"
+  },
+  {
+    "name": "수현",
+    "hanja": "娜宰",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "Q"
+  },
+  {
+    "name": "준호",
+    "hanja": "星信",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "A"
+  },
+  {
+    "name": "서준",
+    "hanja": "潤基",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "Z"
+  },
+  {
+    "name": "하준",
+    "hanja": "心賢",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "M"
+  },
+  {
+    "name": "현준",
+    "hanja": "映弼",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "K"
+  },
+  {
+    "name": "성민",
+    "hanja": "希宰",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "Y"
+  },
+  {
+    "name": "성민",
+    "hanja": "彩鎭",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "G"
+  },
+  {
+    "name": "지호",
+    "hanja": "柔浩",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "M"
+  },
+  {
+    "name": "하준",
+    "hanja": "潾燦",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "O"
+  },
+  {
+    "name": "지호",
+    "hanja": "映賢",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "X"
+  },
+  {
+    "name": "도윤",
+    "hanja": "恩宇",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "Q"
+  },
+  {
+    "name": "시우",
+    "hanja": "瑛潾",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "T"
+  },
+  {
+    "name": "유준",
+    "hanja": "花永",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "U"
+  },
+  {
+    "name": "민재",
+    "hanja": "柔允",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "T"
+  },
+  {
+    "name": "지훈",
+    "hanja": "京民",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "Z"
+  },
+  {
+    "name": "우진",
+    "hanja": "眞周",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "A"
+  },
+  {
+    "name": "지훈",
+    "hanja": "賢鎭",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "Q"
+  },
+  {
+    "name": "재윤",
+    "hanja": "慧勇",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "Z"
+  },
+  {
+    "name": "현준",
+    "hanja": "善俊",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "B"
+  },
+  {
+    "name": "태윤",
+    "hanja": "娜鎭",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "L"
+  },
+  {
+    "name": "도윤",
+    "hanja": "心宰",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "I"
+  },
+  {
+    "name": "수현",
+    "hanja": "潾泰",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "Y"
+  },
+  {
+    "name": "태윤",
+    "hanja": "恩燦",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "G"
+  },
+  {
+    "name": "시우",
+    "hanja": "京炫",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "O"
+  },
+  {
+    "name": "지훈",
+    "hanja": "心允",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "Q"
+  },
+  {
+    "name": "시우",
+    "hanja": "心信",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "Q"
+  },
+  {
+    "name": "서준",
+    "hanja": "雅勇",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "I"
+  },
+  {
+    "name": "현우",
+    "hanja": "瑛炫",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "H"
+  },
+  {
+    "name": "민준",
+    "hanja": "潾燦",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "H"
+  },
+  {
+    "name": "성민",
+    "hanja": "眞泰",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "G"
+  },
+  {
+    "name": "도윤",
+    "hanja": "潾信",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "X"
+  },
+  {
+    "name": "지훈",
+    "hanja": "潤潾",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "Z"
+  },
+  {
+    "name": "하준",
+    "hanja": "善永",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "J"
+  },
+  {
+    "name": "하준",
+    "hanja": "恩榮",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "O"
+  },
+  {
+    "name": "시우",
+    "hanja": "潾昊",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "X"
+  },
+  {
+    "name": "도윤",
+    "hanja": "恩賢",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "K"
+  },
+  {
+    "name": "태윤",
+    "hanja": "慧潤",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "P"
+  },
+  {
+    "name": "도윤",
+    "hanja": "順周",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "V"
+  },
+  {
+    "name": "준우",
+    "hanja": "賢潤",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "S"
+  },
+  {
+    "name": "민준",
+    "hanja": "彩鎭",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "B"
+  },
+  {
+    "name": "시우",
+    "hanja": "恩潤",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "L"
+  },
+  {
+    "name": "도윤",
+    "hanja": "恩泰",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "Y"
+  },
+  {
+    "name": "재윤",
+    "hanja": "彩俊",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "D"
+  },
+  {
+    "name": "민재",
+    "hanja": "星潾",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "G"
+  },
+  {
+    "name": "수현",
+    "hanja": "京成",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "K"
+  },
+  {
+    "name": "재윤",
+    "hanja": "星潤",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "H"
+  },
+  {
+    "name": "준우",
+    "hanja": "雅榮",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "Z"
+  },
+  {
+    "name": "승우",
+    "hanja": "善泰",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "T"
+  },
+  {
+    "name": "도현",
+    "hanja": "柔信",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "J"
+  },
+  {
+    "name": "서준",
+    "hanja": "希宇",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "K"
+  },
+  {
+    "name": "현우",
+    "hanja": "慧鎭",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "G"
+  },
+  {
+    "name": "서준",
+    "hanja": "心潾",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "F"
+  },
+  {
+    "name": "도윤",
+    "hanja": "潾哲",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "A"
+  },
+  {
+    "name": "시우",
+    "hanja": "恩基",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "B"
+  },
+  {
+    "name": "도현",
+    "hanja": "柔浩",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "J"
+  },
+  {
+    "name": "민준",
+    "hanja": "賢成",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "R"
+  },
+  {
+    "name": "수현",
+    "hanja": "潾泰",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "B"
+  },
+  {
+    "name": "지훈",
+    "hanja": "美弼",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "T"
+  },
+  {
+    "name": "승우",
+    "hanja": "映賢",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "I"
+  },
+  {
+    "name": "지훈",
+    "hanja": "雅允",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "G"
+  },
+  {
+    "name": "지훈",
+    "hanja": "美燦",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "W"
+  },
+  {
+    "name": "민준",
+    "hanja": "慧泰",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "Q"
+  },
+  {
+    "name": "민재",
+    "hanja": "恩潤",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "T"
+  },
+  {
+    "name": "현우",
+    "hanja": "雅炫",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "G"
+  },
+  {
+    "name": "준우",
+    "hanja": "柔泰",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "W"
+  },
+  {
+    "name": "도윤",
+    "hanja": "彩潤",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "J"
+  },
+  {
+    "name": "우진",
+    "hanja": "智永",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "B"
+  },
+  {
+    "name": "유준",
+    "hanja": "善浩",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "H"
+  },
+  {
+    "name": "재윤",
+    "hanja": "慧宰",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "E"
+  },
+  {
+    "name": "현우",
+    "hanja": "智勇",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "L"
+  },
+  {
+    "name": "현준",
+    "hanja": "京周",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "L"
+  },
+  {
+    "name": "도윤",
+    "hanja": "柔民",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "Y"
+  },
+  {
+    "name": "수현",
+    "hanja": "希昊",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "A"
+  },
+  {
+    "name": "우진",
+    "hanja": "星榮",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "V"
+  },
+  {
+    "name": "수현",
+    "hanja": "順賢",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "D"
+  },
+  {
+    "name": "승우",
+    "hanja": "京允",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "H"
+  },
+  {
+    "name": "현우",
+    "hanja": "慧浩",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "C"
+  },
+  {
+    "name": "유준",
+    "hanja": "彩勇",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "K"
+  },
+  {
+    "name": "우진",
+    "hanja": "美昊",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "O"
+  },
+  {
+    "name": "우진",
+    "hanja": "恩潾",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "E"
+  },
+  {
+    "name": "하준",
+    "hanja": "賢燦",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "J"
+  },
+  {
+    "name": "성민",
+    "hanja": "潾宰",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "N"
+  },
+  {
+    "name": "도현",
+    "hanja": "花宇",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "E"
+  },
+  {
+    "name": "하준",
+    "hanja": "眞弼",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "U"
+  },
+  {
+    "name": "민준",
+    "hanja": "潾賢",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "Q"
+  },
+  {
+    "name": "준우",
+    "hanja": "柔潤",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "U"
+  },
+  {
+    "name": "도현",
+    "hanja": "潾泰",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "T"
+  },
+  {
+    "name": "재윤",
+    "hanja": "京榮",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "P"
+  },
+  {
+    "name": "지훈",
+    "hanja": "心勇",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "Y"
+  },
+  {
+    "name": "유준",
+    "hanja": "潾昊",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "N"
+  },
+  {
+    "name": "현우",
+    "hanja": "珠浩",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "O"
+  },
+  {
+    "name": "민재",
+    "hanja": "柔民",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "R"
+  },
+  {
+    "name": "우진",
+    "hanja": "映信",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "A"
+  },
+  {
+    "name": "도윤",
+    "hanja": "瑛榮",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "D"
+  },
+  {
+    "name": "서준",
+    "hanja": "珠民",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "L"
+  },
+  {
+    "name": "현우",
+    "hanja": "星成",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "U"
+  },
+  {
+    "name": "태윤",
+    "hanja": "慧成",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "P"
+  },
+  {
+    "name": "태윤",
+    "hanja": "智宇",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "C"
+  },
+  {
+    "name": "지훈",
+    "hanja": "美成",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "H"
+  },
+  {
+    "name": "수현",
+    "hanja": "雅信",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "E"
+  },
+  {
+    "name": "도현",
+    "hanja": "美民",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "G"
+  },
+  {
+    "name": "지호",
+    "hanja": "希潾",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "K"
+  },
+  {
+    "name": "시우",
+    "hanja": "娜燦",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "K"
+  },
+  {
+    "name": "시우",
+    "hanja": "智潾",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "S"
+  },
+  {
+    "name": "민준",
+    "hanja": "賢周",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "E"
+  },
+  {
+    "name": "도윤",
+    "hanja": "眞浩",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "Y"
+  },
+  {
+    "name": "준호",
+    "hanja": "潤炫",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "W"
+  },
+  {
+    "name": "준우",
+    "hanja": "順宰",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "U"
+  },
+  {
+    "name": "지훈",
+    "hanja": "賢潤",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "P"
+  },
+  {
+    "name": "서준",
+    "hanja": "雅昊",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "D"
+  },
+  {
+    "name": "현준",
+    "hanja": "美鎭",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "X"
+  },
+  {
+    "name": "지훈",
+    "hanja": "映潤",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "Z"
+  },
+  {
+    "name": "도현",
+    "hanja": "希信",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "K"
+  },
+  {
+    "name": "재윤",
+    "hanja": "潤炫",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "G"
+  },
+  {
+    "name": "서준",
+    "hanja": "京弼",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "X"
+  },
+  {
+    "name": "하준",
+    "hanja": "珠潤",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "G"
+  },
+  {
+    "name": "유준",
+    "hanja": "娜信",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "W"
+  },
+  {
+    "name": "유준",
+    "hanja": "心哲",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "G"
+  },
+  {
+    "name": "현준",
+    "hanja": "智民",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "P"
+  },
+  {
+    "name": "민재",
+    "hanja": "映賢",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "Y"
+  },
+  {
+    "name": "현우",
+    "hanja": "心泰",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "O"
+  },
+  {
+    "name": "우진",
+    "hanja": "智浩",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "X"
+  },
+  {
+    "name": "성민",
+    "hanja": "雅燦",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "Z"
+  },
+  {
+    "name": "지훈",
+    "hanja": "心哲",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "O"
+  },
+  {
+    "name": "민재",
+    "hanja": "柔永",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "R"
+  },
+  {
+    "name": "지훈",
+    "hanja": "柔弼",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "D"
+  },
+  {
+    "name": "서준",
+    "hanja": "順昊",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "J"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠浩",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "V"
+  },
+  {
+    "name": "유준",
+    "hanja": "賢炫",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "W"
+  },
+  {
+    "name": "현우",
+    "hanja": "善宇",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "S"
+  },
+  {
+    "name": "유준",
+    "hanja": "眞信",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "G"
+  },
+  {
+    "name": "재윤",
+    "hanja": "恩榮",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "B"
+  },
+  {
+    "name": "서준",
+    "hanja": "賢昊",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "F"
+  },
+  {
+    "name": "우진",
+    "hanja": "智鎭",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "S"
+  },
+  {
+    "name": "지훈",
+    "hanja": "潾永",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "B"
+  },
+  {
+    "name": "서준",
+    "hanja": "恩燦",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "Y"
+  },
+  {
+    "name": "준우",
+    "hanja": "希炫",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "O"
+  },
+  {
+    "name": "준호",
+    "hanja": "慧永",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "G"
+  },
+  {
+    "name": "준우",
+    "hanja": "慧基",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "Z"
+  },
+  {
+    "name": "유준",
+    "hanja": "柔勇",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "S"
+  },
+  {
+    "name": "지호",
+    "hanja": "娜潾",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "H"
+  },
+  {
+    "name": "현우",
+    "hanja": "心成",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "H"
+  },
+  {
+    "name": "수현",
+    "hanja": "彩賢",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "P"
+  },
+  {
+    "name": "지훈",
+    "hanja": "京榮",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "R"
+  },
+  {
+    "name": "현우",
+    "hanja": "娜成",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "D"
+  },
+  {
+    "name": "현준",
+    "hanja": "瑛炫",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "J"
+  },
+  {
+    "name": "태윤",
+    "hanja": "珠允",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "D"
+  },
+  {
+    "name": "유준",
+    "hanja": "美燦",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "R"
+  },
+  {
+    "name": "하준",
+    "hanja": "京成",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "C"
+  },
+  {
+    "name": "성민",
+    "hanja": "潾宰",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "C"
+  },
+  {
+    "name": "서준",
+    "hanja": "善泰",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "D"
+  },
+  {
+    "name": "하준",
+    "hanja": "珠允",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "H"
+  },
+  {
+    "name": "우진",
+    "hanja": "賢賢",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "W"
+  },
+  {
+    "name": "현우",
+    "hanja": "智弼",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "C"
+  },
+  {
+    "name": "현준",
+    "hanja": "彩基",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "V"
+  },
+  {
+    "name": "도윤",
+    "hanja": "恩宇",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "Z"
+  },
+  {
+    "name": "유준",
+    "hanja": "珠炫",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "Y"
+  },
+  {
+    "name": "재윤",
+    "hanja": "順潾",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "F"
+  },
+  {
+    "name": "지호",
+    "hanja": "恩哲",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "S"
+  },
+  {
+    "name": "승우",
+    "hanja": "恩浩",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "J"
+  },
+  {
+    "name": "시우",
+    "hanja": "智基",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "T"
+  },
+  {
+    "name": "준호",
+    "hanja": "星宰",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "Y"
+  },
+  {
+    "name": "준우",
+    "hanja": "希弼",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "X"
+  },
+  {
+    "name": "서준",
+    "hanja": "順昊",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "Q"
+  },
+  {
+    "name": "시우",
+    "hanja": "順允",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "L"
+  },
+  {
+    "name": "현우",
+    "hanja": "潤昊",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "S"
+  },
+  {
+    "name": "준호",
+    "hanja": "娜宇",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "N"
+  },
+  {
+    "name": "도현",
+    "hanja": "花基",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "L"
+  },
+  {
+    "name": "승우",
+    "hanja": "映民",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "F"
+  },
+  {
+    "name": "도윤",
+    "hanja": "希昊",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "M"
+  },
+  {
+    "name": "승우",
+    "hanja": "潾泰",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "E"
+  },
+  {
+    "name": "유준",
+    "hanja": "眞泰",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "H"
+  },
+  {
+    "name": "수현",
+    "hanja": "美賢",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "Y"
+  },
+  {
+    "name": "승우",
+    "hanja": "花鎭",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "W"
+  },
+  {
+    "name": "재윤",
+    "hanja": "星弼",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "Y"
+  },
+  {
+    "name": "준호",
+    "hanja": "心燦",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "P"
+  },
+  {
+    "name": "시우",
+    "hanja": "映周",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "D"
+  },
+  {
+    "name": "재윤",
+    "hanja": "賢永",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "A"
+  },
+  {
+    "name": "도현",
+    "hanja": "恩泰",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "D"
+  },
+  {
+    "name": "우진",
+    "hanja": "彩鎭",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "N"
+  },
+  {
+    "name": "우진",
+    "hanja": "賢弼",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "I"
+  },
+  {
+    "name": "승우",
+    "hanja": "心宰",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "F"
+  },
+  {
+    "name": "승우",
+    "hanja": "彩潾",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "T"
+  },
+  {
+    "name": "지호",
+    "hanja": "娜潾",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "S"
+  },
+  {
+    "name": "민준",
+    "hanja": "京弼",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "A"
+  },
+  {
+    "name": "서준",
+    "hanja": "順榮",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "G"
+  },
+  {
+    "name": "서준",
+    "hanja": "雅信",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "U"
+  },
+  {
+    "name": "현우",
+    "hanja": "柔信",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "G"
+  },
+  {
+    "name": "지호",
+    "hanja": "娜賢",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "W"
+  },
+  {
+    "name": "민재",
+    "hanja": "恩賢",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "R"
+  },
+  {
+    "name": "수현",
+    "hanja": "彩宇",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "H"
+  },
+  {
+    "name": "지훈",
+    "hanja": "眞宰",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "T"
+  },
+  {
+    "name": "도윤",
+    "hanja": "映哲",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "R"
+  },
+  {
+    "name": "현준",
+    "hanja": "慧基",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "P"
+  },
+  {
+    "name": "승우",
+    "hanja": "恩信",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "F"
+  },
+  {
+    "name": "현우",
+    "hanja": "映永",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "X"
+  },
+  {
+    "name": "도윤",
+    "hanja": "賢基",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "W"
+  },
+  {
+    "name": "도현",
+    "hanja": "眞哲",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "Z"
+  },
+  {
+    "name": "민재",
+    "hanja": "善成",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "Q"
+  },
+  {
+    "name": "도현",
+    "hanja": "順信",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "A"
+  },
+  {
+    "name": "도현",
+    "hanja": "慧燦",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "R"
+  },
+  {
+    "name": "민재",
+    "hanja": "賢周",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "O"
+  },
+  {
+    "name": "시우",
+    "hanja": "美宰",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "W"
+  },
+  {
+    "name": "성민",
+    "hanja": "星永",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "K"
+  },
+  {
+    "name": "준우",
+    "hanja": "娜浩",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "R"
+  },
+  {
+    "name": "유준",
+    "hanja": "心成",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "U"
+  },
+  {
+    "name": "준호",
+    "hanja": "潤燦",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "O"
+  },
+  {
+    "name": "성민",
+    "hanja": "眞昊",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "K"
+  },
+  {
+    "name": "지훈",
+    "hanja": "希周",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "O"
+  },
+  {
+    "name": "하준",
+    "hanja": "娜浩",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "D"
+  },
+  {
+    "name": "준우",
+    "hanja": "柔浩",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "S"
+  },
+  {
+    "name": "준우",
+    "hanja": "心基",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "T"
+  },
+  {
+    "name": "도윤",
+    "hanja": "珠信",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "D"
+  },
+  {
+    "name": "우진",
+    "hanja": "映燦",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "R"
+  },
+  {
+    "name": "우진",
+    "hanja": "順基",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "Z"
+  },
+  {
+    "name": "준우",
+    "hanja": "美哲",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "V"
+  },
+  {
+    "name": "준우",
+    "hanja": "恩燦",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "R"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠賢",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "G"
+  },
+  {
+    "name": "현우",
+    "hanja": "柔宇",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "S"
+  },
+  {
+    "name": "준호",
+    "hanja": "希信",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "O"
+  },
+  {
+    "name": "지호",
+    "hanja": "恩勇",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "I"
+  },
+  {
+    "name": "하준",
+    "hanja": "恩允",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "M"
+  },
+  {
+    "name": "재윤",
+    "hanja": "善宇",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "C"
+  },
+  {
+    "name": "하준",
+    "hanja": "恩周",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "R"
+  },
+  {
+    "name": "도현",
+    "hanja": "恩鎭",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "L"
+  },
+  {
+    "name": "우진",
+    "hanja": "眞榮",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "O"
+  },
+  {
+    "name": "시우",
+    "hanja": "潾基",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "K"
+  },
+  {
+    "name": "도현",
+    "hanja": "順賢",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "V"
+  },
+  {
+    "name": "유준",
+    "hanja": "雅允",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "F"
+  },
+  {
+    "name": "준호",
+    "hanja": "美泰",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "M"
+  },
+  {
+    "name": "재윤",
+    "hanja": "柔周",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "Y"
+  },
+  {
+    "name": "현준",
+    "hanja": "珠鎭",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "A"
+  },
+  {
+    "name": "준우",
+    "hanja": "瑛榮",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "F"
+  },
+  {
+    "name": "성민",
+    "hanja": "心榮",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "Z"
+  },
+  {
+    "name": "유준",
+    "hanja": "花宰",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "A"
+  },
+  {
+    "name": "승우",
+    "hanja": "花賢",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "M"
+  },
+  {
+    "name": "도현",
+    "hanja": "彩成",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "P"
+  },
+  {
+    "name": "준호",
+    "hanja": "柔賢",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "Y"
+  },
+  {
+    "name": "태윤",
+    "hanja": "恩潾",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "A"
+  },
+  {
+    "name": "서준",
+    "hanja": "星宇",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "W"
+  },
+  {
+    "name": "승우",
+    "hanja": "眞成",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "J"
+  },
+  {
+    "name": "태윤",
+    "hanja": "慧成",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "O"
+  },
+  {
+    "name": "민준",
+    "hanja": "映成",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "O"
+  },
+  {
+    "name": "시우",
+    "hanja": "花鎭",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "F"
+  },
+  {
+    "name": "수현",
+    "hanja": "彩哲",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "G"
+  },
+  {
+    "name": "현준",
+    "hanja": "娜周",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "O"
+  },
+  {
+    "name": "승우",
+    "hanja": "瑛勇",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "I"
+  },
+  {
+    "name": "서준",
+    "hanja": "賢弼",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "L"
+  },
+  {
+    "name": "준우",
+    "hanja": "希泰",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "L"
+  },
+  {
+    "name": "지호",
+    "hanja": "美宰",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "P"
+  },
+  {
+    "name": "성민",
+    "hanja": "彩賢",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "F"
+  },
+  {
+    "name": "하준",
+    "hanja": "美允",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "S"
+  },
+  {
+    "name": "하준",
+    "hanja": "京基",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "H"
+  },
+  {
+    "name": "우진",
+    "hanja": "潾永",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "K"
+  },
+  {
+    "name": "시우",
+    "hanja": "潤永",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "B"
+  },
+  {
+    "name": "도현",
+    "hanja": "善俊",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "A"
+  },
+  {
+    "name": "유준",
+    "hanja": "心民",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "D"
+  },
+  {
+    "name": "준우",
+    "hanja": "心潤",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "Z"
+  },
+  {
+    "name": "서준",
+    "hanja": "星允",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "E"
+  },
+  {
+    "name": "준우",
+    "hanja": "恩勇",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "N"
+  },
+  {
+    "name": "도윤",
+    "hanja": "心燦",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "R"
+  },
+  {
+    "name": "승우",
+    "hanja": "眞潾",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "W"
+  },
+  {
+    "name": "도윤",
+    "hanja": "心鎭",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "V"
+  },
+  {
+    "name": "성민",
+    "hanja": "柔勇",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "Z"
+  },
+  {
+    "name": "태윤",
+    "hanja": "恩泰",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "X"
+  },
+  {
+    "name": "준우",
+    "hanja": "彩昊",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "B"
+  },
+  {
+    "name": "현우",
+    "hanja": "柔基",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "Z"
+  },
+  {
+    "name": "민준",
+    "hanja": "美信",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "M"
+  },
+  {
+    "name": "도현",
+    "hanja": "希弼",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "U"
+  },
+  {
+    "name": "승우",
+    "hanja": "星宰",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "H"
+  },
+  {
+    "name": "시우",
+    "hanja": "雅信",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "V"
+  },
+  {
+    "name": "준호",
+    "hanja": "星周",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "L"
+  },
+  {
+    "name": "준호",
+    "hanja": "花宰",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "S"
+  },
+  {
+    "name": "민재",
+    "hanja": "潾昊",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "E"
+  },
+  {
+    "name": "준호",
+    "hanja": "柔潤",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "Z"
+  },
+  {
+    "name": "민재",
+    "hanja": "潾潾",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "B"
+  },
+  {
+    "name": "도현",
+    "hanja": "順民",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "X"
+  },
+  {
+    "name": "수현",
+    "hanja": "恩哲",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "X"
+  },
+  {
+    "name": "시우",
+    "hanja": "潤勇",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "R"
+  },
+  {
+    "name": "현준",
+    "hanja": "賢基",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "U"
+  },
+  {
+    "name": "민재",
+    "hanja": "星民",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "N"
+  },
+  {
+    "name": "유준",
+    "hanja": "京哲",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "D"
+  },
+  {
+    "name": "도현",
+    "hanja": "希信",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "X"
+  },
+  {
+    "name": "현준",
+    "hanja": "花永",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "O"
+  },
+  {
+    "name": "유준",
+    "hanja": "賢哲",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "P"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠昊",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "Y"
+  },
+  {
+    "name": "도현",
+    "hanja": "潾燦",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "N"
+  },
+  {
+    "name": "서준",
+    "hanja": "潤俊",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "L"
+  },
+  {
+    "name": "성민",
+    "hanja": "恩信",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "I"
+  },
+  {
+    "name": "유준",
+    "hanja": "賢榮",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "R"
+  },
+  {
+    "name": "재윤",
+    "hanja": "恩宰",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "W"
+  },
+  {
+    "name": "민재",
+    "hanja": "京成",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "U"
+  },
+  {
+    "name": "성민",
+    "hanja": "恩永",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "N"
+  },
+  {
+    "name": "우진",
+    "hanja": "順永",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "K"
+  },
+  {
+    "name": "수현",
+    "hanja": "彩基",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "M"
+  },
+  {
+    "name": "민재",
+    "hanja": "京基",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "N"
+  },
+  {
+    "name": "재윤",
+    "hanja": "星鎭",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "G"
+  },
+  {
+    "name": "승우",
+    "hanja": "京基",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "C"
+  },
+  {
+    "name": "지호",
+    "hanja": "恩昊",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "R"
+  },
+  {
+    "name": "시우",
+    "hanja": "娜信",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "T"
+  },
+  {
+    "name": "도현",
+    "hanja": "心宰",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "Z"
+  },
+  {
+    "name": "성민",
+    "hanja": "瑛信",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "V"
+  },
+  {
+    "name": "시우",
+    "hanja": "希基",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "I"
+  },
+  {
+    "name": "현준",
+    "hanja": "恩賢",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "W"
+  },
+  {
+    "name": "승우",
+    "hanja": "星潤",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "O"
+  },
+  {
+    "name": "승우",
+    "hanja": "珠昊",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "Q"
+  },
+  {
+    "name": "서준",
+    "hanja": "善周",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "D"
+  },
+  {
+    "name": "승우",
+    "hanja": "娜基",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "I"
+  },
+  {
+    "name": "서준",
+    "hanja": "順燦",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "G"
+  },
+  {
+    "name": "서준",
+    "hanja": "心賢",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "I"
+  },
+  {
+    "name": "현우",
+    "hanja": "智信",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "X"
+  },
+  {
+    "name": "서준",
+    "hanja": "眞宰",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "A"
+  },
+  {
+    "name": "성민",
+    "hanja": "慧俊",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "T"
+  },
+  {
+    "name": "우진",
+    "hanja": "京賢",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "L"
+  },
+  {
+    "name": "재윤",
+    "hanja": "京燦",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "P"
+  },
+  {
+    "name": "성민",
+    "hanja": "映泰",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "Z"
+  },
+  {
+    "name": "수현",
+    "hanja": "慧昊",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "O"
+  },
+  {
+    "name": "승우",
+    "hanja": "星泰",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "O"
+  },
+  {
+    "name": "하준",
+    "hanja": "京賢",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "B"
+  },
+  {
+    "name": "민준",
+    "hanja": "京允",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "J"
+  },
+  {
+    "name": "민준",
+    "hanja": "希民",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "K"
+  },
+  {
+    "name": "성민",
+    "hanja": "花泰",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "Z"
+  },
+  {
+    "name": "수현",
+    "hanja": "瑛宇",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "P"
+  },
+  {
+    "name": "도현",
+    "hanja": "眞潤",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "N"
+  },
+  {
+    "name": "하준",
+    "hanja": "珠鎭",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "H"
+  },
+  {
+    "name": "성민",
+    "hanja": "花信",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "W"
+  },
+  {
+    "name": "현우",
+    "hanja": "娜勇",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "C"
+  },
+  {
+    "name": "시우",
+    "hanja": "順賢",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "P"
+  },
+  {
+    "name": "수현",
+    "hanja": "美民",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "A"
+  },
+  {
+    "name": "수현",
+    "hanja": "善鎭",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "U"
+  },
+  {
+    "name": "도윤",
+    "hanja": "智弼",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "F"
+  },
+  {
+    "name": "준우",
+    "hanja": "星周",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "S"
+  },
+  {
+    "name": "유준",
+    "hanja": "珠信",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "K"
+  },
+  {
+    "name": "우진",
+    "hanja": "賢周",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "X"
+  },
+  {
+    "name": "민재",
+    "hanja": "雅炫",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "E"
+  },
+  {
+    "name": "민재",
+    "hanja": "心俊",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "F"
+  },
+  {
+    "name": "준호",
+    "hanja": "潤弼",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "E"
+  },
+  {
+    "name": "민재",
+    "hanja": "瑛浩",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "J"
+  },
+  {
+    "name": "수현",
+    "hanja": "賢俊",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "O"
+  },
+  {
+    "name": "준우",
+    "hanja": "星鎭",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "O"
+  },
+  {
+    "name": "우진",
+    "hanja": "彩俊",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "J"
+  },
+  {
+    "name": "현우",
+    "hanja": "雅榮",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "L"
+  },
+  {
+    "name": "도현",
+    "hanja": "京成",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "X"
+  },
+  {
+    "name": "지훈",
+    "hanja": "順燦",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "C"
+  },
+  {
+    "name": "지호",
+    "hanja": "潾永",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "S"
+  },
+  {
+    "name": "현준",
+    "hanja": "映成",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "F"
+  },
+  {
+    "name": "우진",
+    "hanja": "潤成",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "E"
+  },
+  {
+    "name": "민준",
+    "hanja": "恩泰",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "Z"
+  },
+  {
+    "name": "수현",
+    "hanja": "心燦",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "W"
+  },
+  {
+    "name": "수현",
+    "hanja": "映信",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "G"
+  },
+  {
+    "name": "준우",
+    "hanja": "潤弼",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "J"
+  },
+  {
+    "name": "재윤",
+    "hanja": "映哲",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "B"
+  },
+  {
+    "name": "시우",
+    "hanja": "潾弼",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "G"
+  },
+  {
+    "name": "민준",
+    "hanja": "善宰",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "G"
+  },
+  {
+    "name": "준호",
+    "hanja": "美勇",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "Z"
+  },
+  {
+    "name": "도윤",
+    "hanja": "潤允",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "M"
+  },
+  {
+    "name": "승우",
+    "hanja": "柔潤",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "O"
+  },
+  {
+    "name": "도윤",
+    "hanja": "雅周",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "C"
+  },
+  {
+    "name": "하준",
+    "hanja": "娜哲",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "G"
+  },
+  {
+    "name": "재윤",
+    "hanja": "賢鎭",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "W"
+  },
+  {
+    "name": "도현",
+    "hanja": "柔賢",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "X"
+  },
+  {
+    "name": "지훈",
+    "hanja": "智弼",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "F"
+  },
+  {
+    "name": "지호",
+    "hanja": "恩鎭",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "W"
+  },
+  {
+    "name": "준호",
+    "hanja": "京潤",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "I"
+  },
+  {
+    "name": "민재",
+    "hanja": "智榮",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "A"
+  },
+  {
+    "name": "서준",
+    "hanja": "眞勇",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "W"
+  },
+  {
+    "name": "하준",
+    "hanja": "柔昊",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "F"
+  },
+  {
+    "name": "하준",
+    "hanja": "彩周",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "U"
+  },
+  {
+    "name": "재윤",
+    "hanja": "心炫",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "T"
+  },
+  {
+    "name": "유준",
+    "hanja": "娜昊",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "M"
+  },
+  {
+    "name": "준호",
+    "hanja": "希燦",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "U"
+  },
+  {
+    "name": "지호",
+    "hanja": "珠潤",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "W"
+  },
+  {
+    "name": "서준",
+    "hanja": "柔榮",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "I"
+  },
+  {
+    "name": "도현",
+    "hanja": "柔基",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "K"
+  },
+  {
+    "name": "준호",
+    "hanja": "希成",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "F"
+  },
+  {
+    "name": "준우",
+    "hanja": "瑛允",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "T"
+  },
+  {
+    "name": "하준",
+    "hanja": "順俊",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "N"
+  },
+  {
+    "name": "현우",
+    "hanja": "恩允",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "K"
+  },
+  {
+    "name": "준호",
+    "hanja": "京民",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "P"
+  },
+  {
+    "name": "우진",
+    "hanja": "星哲",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "U"
+  },
+  {
+    "name": "재윤",
+    "hanja": "瑛浩",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "S"
+  },
+  {
+    "name": "성민",
+    "hanja": "賢民",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "D"
+  },
+  {
+    "name": "준우",
+    "hanja": "珠榮",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "B"
+  },
+  {
+    "name": "지호",
+    "hanja": "智燦",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "W"
+  },
+  {
+    "name": "승우",
+    "hanja": "恩成",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "O"
+  },
+  {
+    "name": "지훈",
+    "hanja": "恩昊",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "E"
+  },
+  {
+    "name": "준호",
+    "hanja": "善燦",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "H"
+  },
+  {
+    "name": "태윤",
+    "hanja": "賢允",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "K"
+  },
+  {
+    "name": "유준",
+    "hanja": "映弼",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "B"
+  },
+  {
+    "name": "하준",
+    "hanja": "希昊",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "F"
+  },
+  {
+    "name": "성민",
+    "hanja": "彩燦",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "I"
+  },
+  {
+    "name": "지훈",
+    "hanja": "希周",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "D"
+  },
+  {
+    "name": "지호",
+    "hanja": "雅鎭",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "V"
+  },
+  {
+    "name": "민준",
+    "hanja": "眞弼",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "B"
+  },
+  {
+    "name": "유준",
+    "hanja": "恩周",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "M"
+  },
+  {
+    "name": "수현",
+    "hanja": "京民",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "K"
+  },
+  {
+    "name": "시우",
+    "hanja": "娜俊",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "P"
+  },
+  {
+    "name": "준호",
+    "hanja": "恩昊",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "W"
+  },
+  {
+    "name": "현준",
+    "hanja": "映允",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "Y"
+  },
+  {
+    "name": "수현",
+    "hanja": "善哲",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "L"
+  },
+  {
+    "name": "민재",
+    "hanja": "雅浩",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "N"
+  },
+  {
+    "name": "도현",
+    "hanja": "星永",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "L"
+  },
+  {
+    "name": "승우",
+    "hanja": "星潤",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "L"
+  },
+  {
+    "name": "시우",
+    "hanja": "順允",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "J"
+  },
+  {
+    "name": "현준",
+    "hanja": "心賢",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "M"
+  },
+  {
+    "name": "도현",
+    "hanja": "美鎭",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "O"
+  },
+  {
+    "name": "도윤",
+    "hanja": "柔賢",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "C"
+  },
+  {
+    "name": "시우",
+    "hanja": "心民",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "E"
+  },
+  {
+    "name": "도현",
+    "hanja": "順潤",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "Y"
+  },
+  {
+    "name": "서준",
+    "hanja": "京潤",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "Y"
+  },
+  {
+    "name": "지호",
+    "hanja": "恩成",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "L"
+  },
+  {
+    "name": "수현",
+    "hanja": "花賢",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "G"
+  },
+  {
+    "name": "민준",
+    "hanja": "善允",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "T"
+  },
+  {
+    "name": "승우",
+    "hanja": "慧周",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "I"
+  },
+  {
+    "name": "준우",
+    "hanja": "恩弼",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "I"
+  },
+  {
+    "name": "민준",
+    "hanja": "星宰",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "F"
+  },
+  {
+    "name": "재윤",
+    "hanja": "慧允",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "N"
+  },
+  {
+    "name": "유준",
+    "hanja": "眞燦",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "F"
+  },
+  {
+    "name": "민준",
+    "hanja": "潾勇",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "H"
+  },
+  {
+    "name": "지호",
+    "hanja": "眞泰",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "D"
+  },
+  {
+    "name": "재윤",
+    "hanja": "賢炫",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "U"
+  },
+  {
+    "name": "유준",
+    "hanja": "恩民",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "U"
+  },
+  {
+    "name": "재윤",
+    "hanja": "珠民",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "H"
+  },
+  {
+    "name": "시우",
+    "hanja": "映泰",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "Q"
+  },
+  {
+    "name": "태윤",
+    "hanja": "星周",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "Y"
+  },
+  {
+    "name": "민재",
+    "hanja": "彩宇",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "F"
+  },
+  {
+    "name": "재윤",
+    "hanja": "恩弼",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "I"
+  },
+  {
+    "name": "시우",
+    "hanja": "花永",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "N"
+  },
+  {
+    "name": "준우",
+    "hanja": "映潤",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "A"
+  },
+  {
+    "name": "서준",
+    "hanja": "慧基",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "W"
+  },
+  {
+    "name": "하준",
+    "hanja": "柔潾",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "A"
+  },
+  {
+    "name": "하준",
+    "hanja": "眞賢",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "Z"
+  },
+  {
+    "name": "민준",
+    "hanja": "星宇",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "K"
+  },
+  {
+    "name": "승우",
+    "hanja": "京基",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "J"
+  },
+  {
+    "name": "유준",
+    "hanja": "京鎭",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "P"
+  },
+  {
+    "name": "승우",
+    "hanja": "心信",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "V"
+  },
+  {
+    "name": "현준",
+    "hanja": "心宰",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "N"
+  },
+  {
+    "name": "도윤",
+    "hanja": "眞允",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "S"
+  },
+  {
+    "name": "민재",
+    "hanja": "瑛允",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "F"
+  },
+  {
+    "name": "시우",
+    "hanja": "潾信",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "N"
+  },
+  {
+    "name": "시우",
+    "hanja": "心勇",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "U"
+  },
+  {
+    "name": "준호",
+    "hanja": "柔燦",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "K"
+  },
+  {
+    "name": "우진",
+    "hanja": "恩賢",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "J"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠燦",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "I"
+  },
+  {
+    "name": "태윤",
+    "hanja": "雅永",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "T"
+  },
+  {
+    "name": "도현",
+    "hanja": "慧信",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "B"
+  },
+  {
+    "name": "유준",
+    "hanja": "瑛賢",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "J"
+  },
+  {
+    "name": "재윤",
+    "hanja": "順燦",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "C"
+  },
+  {
+    "name": "현우",
+    "hanja": "心浩",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "I"
+  },
+  {
+    "name": "민준",
+    "hanja": "恩永",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "E"
+  },
+  {
+    "name": "현준",
+    "hanja": "潾成",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "F"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠燦",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "P"
+  },
+  {
+    "name": "현우",
+    "hanja": "慧俊",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "O"
+  },
+  {
+    "name": "민준",
+    "hanja": "娜宇",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "S"
+  },
+  {
+    "name": "현준",
+    "hanja": "彩俊",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "F"
+  },
+  {
+    "name": "시우",
+    "hanja": "柔昊",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "Y"
+  },
+  {
+    "name": "우진",
+    "hanja": "心燦",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "M"
+  },
+  {
+    "name": "승우",
+    "hanja": "眞基",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "G"
+  },
+  {
+    "name": "우진",
+    "hanja": "智勇",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "E"
+  },
+  {
+    "name": "현우",
+    "hanja": "賢宇",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "D"
+  },
+  {
+    "name": "수현",
+    "hanja": "恩宰",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "N"
+  },
+  {
+    "name": "태윤",
+    "hanja": "雅潤",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "J"
+  },
+  {
+    "name": "태윤",
+    "hanja": "星基",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "K"
+  },
+  {
+    "name": "성민",
+    "hanja": "柔永",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "T"
+  },
+  {
+    "name": "현우",
+    "hanja": "恩周",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "H"
+  },
+  {
+    "name": "지호",
+    "hanja": "智民",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "A"
+  },
+  {
+    "name": "수현",
+    "hanja": "善宰",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "I"
+  },
+  {
+    "name": "현우",
+    "hanja": "希成",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "J"
+  },
+  {
+    "name": "도윤",
+    "hanja": "智賢",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "C"
+  },
+  {
+    "name": "수현",
+    "hanja": "星宇",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "A"
+  },
+  {
+    "name": "수현",
+    "hanja": "慧永",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "L"
+  },
+  {
+    "name": "지훈",
+    "hanja": "花宇",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "O"
+  },
+  {
+    "name": "준우",
+    "hanja": "星昊",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "W"
+  },
+  {
+    "name": "도현",
+    "hanja": "娜允",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "B"
+  },
+  {
+    "name": "도윤",
+    "hanja": "順榮",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "W"
+  },
+  {
+    "name": "수현",
+    "hanja": "娜潾",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "K"
+  },
+  {
+    "name": "유준",
+    "hanja": "映燦",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "A"
+  },
+  {
+    "name": "재윤",
+    "hanja": "希潾",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "O"
+  },
+  {
+    "name": "지호",
+    "hanja": "彩弼",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "F"
+  },
+  {
+    "name": "준호",
+    "hanja": "星昊",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "W"
+  },
+  {
+    "name": "현준",
+    "hanja": "潾信",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "L"
+  },
+  {
+    "name": "유준",
+    "hanja": "潤基",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "P"
+  },
+  {
+    "name": "지훈",
+    "hanja": "瑛鎭",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "Z"
+  },
+  {
+    "name": "태윤",
+    "hanja": "彩潾",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "P"
+  },
+  {
+    "name": "지훈",
+    "hanja": "善哲",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "B"
+  },
+  {
+    "name": "승우",
+    "hanja": "慧信",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "I"
+  },
+  {
+    "name": "유준",
+    "hanja": "心宰",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "H"
+  },
+  {
+    "name": "준호",
+    "hanja": "京允",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "M"
+  },
+  {
+    "name": "도현",
+    "hanja": "花永",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "W"
+  },
+  {
+    "name": "승우",
+    "hanja": "恩信",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "B"
+  },
+  {
+    "name": "현준",
+    "hanja": "智浩",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "K"
+  },
+  {
+    "name": "유준",
+    "hanja": "美燦",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "N"
+  },
+  {
+    "name": "태윤",
+    "hanja": "眞俊",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "M"
+  },
+  {
+    "name": "재윤",
+    "hanja": "瑛民",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "L"
+  },
+  {
+    "name": "현준",
+    "hanja": "瑛成",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "Y"
+  },
+  {
+    "name": "도현",
+    "hanja": "心永",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "P"
+  },
+  {
+    "name": "민재",
+    "hanja": "彩浩",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "Q"
+  },
+  {
+    "name": "유준",
+    "hanja": "雅昊",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "J"
+  },
+  {
+    "name": "우진",
+    "hanja": "智信",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "O"
+  },
+  {
+    "name": "민준",
+    "hanja": "雅賢",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "D"
+  },
+  {
+    "name": "수현",
+    "hanja": "星俊",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "Y"
+  },
+  {
+    "name": "태윤",
+    "hanja": "賢信",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "P"
+  },
+  {
+    "name": "재윤",
+    "hanja": "雅勇",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "X"
+  },
+  {
+    "name": "지훈",
+    "hanja": "星哲",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "J"
+  },
+  {
+    "name": "지호",
+    "hanja": "娜基",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "O"
+  },
+  {
+    "name": "준우",
+    "hanja": "瑛弼",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "K"
+  },
+  {
+    "name": "유준",
+    "hanja": "彩鎭",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "I"
+  },
+  {
+    "name": "준호",
+    "hanja": "花基",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "R"
+  },
+  {
+    "name": "하준",
+    "hanja": "潤基",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "Y"
+  },
+  {
+    "name": "지훈",
+    "hanja": "善弼",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "W"
+  },
+  {
+    "name": "성민",
+    "hanja": "彩俊",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "C"
+  },
+  {
+    "name": "재윤",
+    "hanja": "智勇",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "S"
+  },
+  {
+    "name": "우진",
+    "hanja": "心宰",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "G"
+  },
+  {
+    "name": "준우",
+    "hanja": "珠信",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "C"
+  },
+  {
+    "name": "현준",
+    "hanja": "映昊",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "V"
+  },
+  {
+    "name": "준우",
+    "hanja": "恩潾",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "T"
+  },
+  {
+    "name": "현우",
+    "hanja": "恩潤",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "V"
+  },
+  {
+    "name": "유준",
+    "hanja": "珠基",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "V"
+  },
+  {
+    "name": "준호",
+    "hanja": "珠永",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "G"
+  },
+  {
+    "name": "민준",
+    "hanja": "恩勇",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "E"
+  },
+  {
+    "name": "성민",
+    "hanja": "娜潤",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "F"
+  },
+  {
+    "name": "재윤",
+    "hanja": "映基",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "Y"
+  },
+  {
+    "name": "민재",
+    "hanja": "賢賢",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "X"
+  },
+  {
+    "name": "지호",
+    "hanja": "花勇",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "Y"
+  },
+  {
+    "name": "재윤",
+    "hanja": "雅哲",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "G"
+  },
+  {
+    "name": "민준",
+    "hanja": "希鎭",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "G"
+  },
+  {
+    "name": "민재",
+    "hanja": "星潤",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "F"
+  },
+  {
+    "name": "태윤",
+    "hanja": "彩潾",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "F"
+  },
+  {
+    "name": "수현",
+    "hanja": "美燦",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "G"
+  },
+  {
+    "name": "지훈",
+    "hanja": "潤賢",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "N"
+  },
+  {
+    "name": "수현",
+    "hanja": "瑛榮",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "Q"
+  },
+  {
+    "name": "도윤",
+    "hanja": "珠宇",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "H"
+  },
+  {
+    "name": "준우",
+    "hanja": "映俊",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "T"
+  },
+  {
+    "name": "현우",
+    "hanja": "恩民",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "P"
+  },
+  {
+    "name": "수현",
+    "hanja": "京基",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "T"
+  },
+  {
+    "name": "성민",
+    "hanja": "娜賢",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "P"
+  },
+  {
+    "name": "지훈",
+    "hanja": "智基",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "B"
+  },
+  {
+    "name": "재윤",
+    "hanja": "善周",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "Z"
+  },
+  {
+    "name": "민재",
+    "hanja": "雅哲",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "Q"
+  },
+  {
+    "name": "성민",
+    "hanja": "希燦",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "I"
+  },
+  {
+    "name": "지훈",
+    "hanja": "善鎭",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "F"
+  },
+  {
+    "name": "도현",
+    "hanja": "柔鎭",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "O"
+  },
+  {
+    "name": "우진",
+    "hanja": "彩成",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "W"
+  },
+  {
+    "name": "유준",
+    "hanja": "花基",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "O"
+  },
+  {
+    "name": "승우",
+    "hanja": "恩民",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "H"
+  },
+  {
+    "name": "민준",
+    "hanja": "賢榮",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "C"
+  },
+  {
+    "name": "도현",
+    "hanja": "星哲",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "O"
+  },
+  {
+    "name": "수현",
+    "hanja": "善信",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "O"
+  },
+  {
+    "name": "준우",
+    "hanja": "花泰",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "U"
+  },
+  {
+    "name": "서준",
+    "hanja": "柔潤",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "Y"
+  },
+  {
+    "name": "준호",
+    "hanja": "娜浩",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "O"
+  },
+  {
+    "name": "하준",
+    "hanja": "希哲",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "G"
+  },
+  {
+    "name": "현우",
+    "hanja": "希昊",
+    "category": "Faith",
+    "meaning": "Dedication to truth and honor",
+    "initial": "W"
+  },
+  {
+    "name": "유준",
+    "hanja": "心哲",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "H"
+  },
+  {
+    "name": "지호",
+    "hanja": "順俊",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "C"
+  },
+  {
+    "name": "준우",
+    "hanja": "雅昊",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "E"
+  },
+  {
+    "name": "도현",
+    "hanja": "花周",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "H"
+  },
+  {
+    "name": "민재",
+    "hanja": "希民",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "J"
+  },
+  {
+    "name": "승우",
+    "hanja": "希允",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "Q"
+  },
+  {
+    "name": "현준",
+    "hanja": "慧炫",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "O"
+  },
+  {
+    "name": "태윤",
+    "hanja": "瑛昊",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "R"
+  },
+  {
+    "name": "준우",
+    "hanja": "花昊",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "C"
+  },
+  {
+    "name": "현준",
+    "hanja": "美基",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "D"
+  },
+  {
+    "name": "우진",
+    "hanja": "善哲",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "I"
+  },
+  {
+    "name": "현우",
+    "hanja": "京炫",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "K"
+  },
+  {
+    "name": "준우",
+    "hanja": "珠勇",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "L"
+  },
+  {
+    "name": "승우",
+    "hanja": "恩永",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "R"
+  },
+  {
+    "name": "우진",
+    "hanja": "京鎭",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "C"
+  },
+  {
+    "name": "준우",
+    "hanja": "心炫",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "B"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠浩",
+    "category": "Light",
+    "meaning": "Clarity that guides others",
+    "initial": "J"
+  },
+  {
+    "name": "준우",
+    "hanja": "星浩",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "L"
+  },
+  {
+    "name": "승우",
+    "hanja": "賢榮",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "Z"
+  },
+  {
+    "name": "민재",
+    "hanja": "慧基",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "A"
+  },
+  {
+    "name": "수현",
+    "hanja": "潤勇",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "K"
+  },
+  {
+    "name": "지호",
+    "hanja": "雅燦",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "N"
+  },
+  {
+    "name": "서준",
+    "hanja": "慧成",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "L"
+  },
+  {
+    "name": "현준",
+    "hanja": "順勇",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "Z"
+  },
+  {
+    "name": "현준",
+    "hanja": "善周",
+    "category": "Unity",
+    "meaning": "Connection that bridges hearts",
+    "initial": "A"
+  },
+  {
+    "name": "승우",
+    "hanja": "善浩",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "O"
+  },
+  {
+    "name": "민재",
+    "hanja": "京宇",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "K"
+  },
+  {
+    "name": "도현",
+    "hanja": "善弼",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "M"
+  },
+  {
+    "name": "민준",
+    "hanja": "賢周",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "B"
+  },
+  {
+    "name": "승우",
+    "hanja": "恩允",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "S"
+  },
+  {
+    "name": "준호",
+    "hanja": "星基",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "A"
+  },
+  {
+    "name": "승우",
+    "hanja": "希哲",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "U"
+  },
+  {
+    "name": "유준",
+    "hanja": "希周",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "T"
+  },
+  {
+    "name": "지훈",
+    "hanja": "恩弼",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "B"
+  },
+  {
+    "name": "현우",
+    "hanja": "雅泰",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "B"
+  },
+  {
+    "name": "시우",
+    "hanja": "眞哲",
+    "category": "Hope",
+    "meaning": "Faith in endless possibility",
+    "initial": "E"
+  },
+  {
+    "name": "민재",
+    "hanja": "心泰",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "X"
+  },
+  {
+    "name": "현준",
+    "hanja": "心泰",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "R"
+  },
+  {
+    "name": "수현",
+    "hanja": "善宰",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "L"
+  },
+  {
+    "name": "서준",
+    "hanja": "雅民",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "U"
+  },
+  {
+    "name": "유준",
+    "hanja": "美哲",
+    "category": "Unity",
+    "meaning": "Harmony built on respect",
+    "initial": "X"
+  },
+  {
+    "name": "도윤",
+    "hanja": "美勇",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "A"
+  },
+  {
+    "name": "우진",
+    "hanja": "智信",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "S"
+  },
+  {
+    "name": "우진",
+    "hanja": "美潾",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "A"
+  },
+  {
+    "name": "준우",
+    "hanja": "柔浩",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "V"
+  },
+  {
+    "name": "시우",
+    "hanja": "映榮",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "J"
+  },
+  {
+    "name": "우진",
+    "hanja": "眞昊",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "Q"
+  },
+  {
+    "name": "민재",
+    "hanja": "瑛燦",
+    "category": "Growth",
+    "meaning": "Ambition toward greatness",
+    "initial": "A"
+  },
+  {
+    "name": "우진",
+    "hanja": "映昊",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "A"
+  },
+  {
+    "name": "재윤",
+    "hanja": "希哲",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "G"
+  },
+  {
+    "name": "승우",
+    "hanja": "希哲",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "K"
+  },
+  {
+    "name": "수현",
+    "hanja": "瑛民",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "Z"
+  },
+  {
+    "name": "수현",
+    "hanja": "恩潤",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "T"
+  },
+  {
+    "name": "재윤",
+    "hanja": "珠宰",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "B"
+  },
+  {
+    "name": "하준",
+    "hanja": "花潤",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "Y"
+  },
+  {
+    "name": "수현",
+    "hanja": "恩允",
+    "category": "Strength",
+    "meaning": "Enduring force of conviction",
+    "initial": "X"
+  },
+  {
+    "name": "지호",
+    "hanja": "京基",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "V"
+  },
+  {
+    "name": "지훈",
+    "hanja": "順榮",
+    "category": "Honor",
+    "meaning": "Pride guided by righteousness",
+    "initial": "G"
+  },
+  {
+    "name": "서준",
+    "hanja": "恩潤",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "U"
+  },
+  {
+    "name": "현우",
+    "hanja": "娜宰",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "X"
+  },
+  {
+    "name": "도윤",
+    "hanja": "瑛周",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "P"
+  },
+  {
+    "name": "지호",
+    "hanja": "恩永",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "M"
+  },
+  {
+    "name": "현우",
+    "hanja": "眞浩",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "O"
+  },
+  {
+    "name": "수현",
+    "hanja": "順泰",
+    "category": "Peace",
+    "meaning": "Calm strength in adversity",
+    "initial": "D"
+  },
+  {
+    "name": "유준",
+    "hanja": "潤泰",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "F"
+  },
+  {
+    "name": "태윤",
+    "hanja": "花信",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "S"
+  },
+  {
+    "name": "현준",
+    "hanja": "娜永",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "I"
+  },
+  {
+    "name": "서준",
+    "hanja": "美信",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "F"
+  },
+  {
+    "name": "시우",
+    "hanja": "潤俊",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "A"
+  },
+  {
+    "name": "승우",
+    "hanja": "花燦",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "K"
+  },
+  {
+    "name": "유준",
+    "hanja": "眞民",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "F"
+  },
+  {
+    "name": "시우",
+    "hanja": "慧宇",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "G"
+  },
+  {
+    "name": "승우",
+    "hanja": "娜宇",
+    "category": "Vision",
+    "meaning": "Imagination shaping tomorrow",
+    "initial": "X"
+  },
+  {
+    "name": "태윤",
+    "hanja": "眞昊",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "J"
+  },
+  {
+    "name": "태윤",
+    "hanja": "慧基",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "W"
+  },
+  {
+    "name": "성민",
+    "hanja": "賢周",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "Y"
+  },
+  {
+    "name": "수현",
+    "hanja": "潤浩",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "D"
+  },
+  {
+    "name": "시우",
+    "hanja": "美泰",
+    "category": "Peace",
+    "meaning": "Tranquil heart of a leader",
+    "initial": "F"
+  },
+  {
+    "name": "승우",
+    "hanja": "花勇",
+    "category": "Faith",
+    "meaning": "Unwavering belief and trust",
+    "initial": "A"
+  },
+  {
+    "name": "도윤",
+    "hanja": "京賢",
+    "category": "Justice",
+    "meaning": "Truth as the foundation",
+    "initial": "R"
+  },
+  {
+    "name": "도윤",
+    "hanja": "賢昊",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "I"
+  },
+  {
+    "name": "민준",
+    "hanja": "京鎭",
+    "category": "Vision",
+    "meaning": "Purpose that leads forward",
+    "initial": "G"
+  },
+  {
+    "name": "민재",
+    "hanja": "善賢",
+    "category": "Honor",
+    "meaning": "Moral integrity unbroken",
+    "initial": "Q"
+  },
+  {
+    "name": "도현",
+    "hanja": "彩成",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "M"
+  },
+  {
+    "name": "민재",
+    "hanja": "彩燦",
+    "category": "Hope",
+    "meaning": "Vision for a better future",
+    "initial": "Y"
+  },
+  {
+    "name": "현준",
+    "hanja": "心浩",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "M"
+  },
+  {
+    "name": "하준",
+    "hanja": "映賢",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "L"
+  },
+  {
+    "name": "민재",
+    "hanja": "珠浩",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "Y"
+  },
+  {
+    "name": "시우",
+    "hanja": "娜俊",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "A"
+  },
+  {
+    "name": "시우",
+    "hanja": "恩哲",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "V"
+  },
+  {
+    "name": "태윤",
+    "hanja": "順榮",
+    "category": "Unity",
+    "meaning": "Strength through cooperation",
+    "initial": "B"
+  },
+  {
+    "name": "도윤",
+    "hanja": "星鎭",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "T"
+  },
+  {
+    "name": "도현",
+    "hanja": "美泰",
+    "category": "Wisdom",
+    "meaning": "Sharp mind and clear judgment",
+    "initial": "J"
+  },
+  {
+    "name": "하준",
+    "hanja": "慧允",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "Q"
+  },
+  {
+    "name": "도현",
+    "hanja": "彩成",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "Z"
+  },
+  {
+    "name": "현준",
+    "hanja": "慧宇",
+    "category": "Vision",
+    "meaning": "Clarity to see beyond",
+    "initial": "U"
+  },
+  {
+    "name": "민준",
+    "hanja": "雅周",
+    "category": "Peace",
+    "meaning": "Balance between will and rest",
+    "initial": "X"
+  },
+  {
+    "name": "준우",
+    "hanja": "善俊",
+    "category": "Faith",
+    "meaning": "Loyalty beyond time",
+    "initial": "P"
+  },
+  {
+    "name": "하준",
+    "hanja": "智炫",
+    "category": "Justice",
+    "meaning": "Principle above all things",
+    "initial": "Q"
+  },
+  {
+    "name": "지호",
+    "hanja": "心昊",
+    "category": "Growth",
+    "meaning": "Journey to self-mastery",
+    "initial": "N"
+  },
+  {
+    "name": "민준",
+    "hanja": "智昊",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "W"
+  },
+  {
+    "name": "수현",
+    "hanja": "雅宰",
+    "category": "Courage",
+    "meaning": "Fearless pursuit of right",
+    "initial": "J"
+  },
+  {
+    "name": "민재",
+    "hanja": "恩周",
+    "category": "Strength",
+    "meaning": "Power built from perseverance",
+    "initial": "C"
+  },
+  {
+    "name": "태윤",
+    "hanja": "潾周",
+    "category": "Courage",
+    "meaning": "Bravery in every step",
+    "initial": "I"
+  },
+  {
+    "name": "도윤",
+    "hanja": "星弼",
+    "category": "Wisdom",
+    "meaning": "Insight born from experience",
+    "initial": "O"
+  },
+  {
+    "name": "성민",
+    "hanja": "娜賢",
+    "category": "Wisdom",
+    "meaning": "Understanding that leads others",
+    "initial": "D"
+  },
+  {
+    "name": "시우",
+    "hanja": "潤宇",
+    "category": "Light",
+    "meaning": "Brightness of a pure heart",
+    "initial": "K"
+  },
+  {
+    "name": "도현",
+    "hanja": "映賢",
+    "category": "Light",
+    "meaning": "Integrity shining through action",
+    "initial": "G"
+  },
+  {
+    "name": "도현",
+    "hanja": "珠昊",
+    "category": "Strength",
+    "meaning": "Unshakable courage and will",
+    "initial": "P"
+  },
+  {
+    "name": "현우",
+    "hanja": "星俊",
+    "category": "Honor",
+    "meaning": "Dignity in every action",
+    "initial": "J"
+  },
+  {
+    "name": "시우",
+    "hanja": "潤榮",
+    "category": "Justice",
+    "meaning": "Fairness guiding decisions",
+    "initial": "L"
+  },
+  {
+    "name": "승우",
+    "hanja": "瑛基",
+    "category": "Hope",
+    "meaning": "Optimism in every challenge",
+    "initial": "S"
+  },
+  {
+    "name": "재윤",
+    "hanja": "彩弼",
+    "category": "Courage",
+    "meaning": "Will to face all trials",
+    "initial": "I"
+  },
+  {
+    "name": "도윤",
+    "hanja": "希允",
+    "category": "Growth",
+    "meaning": "Patience that nurtures progress",
+    "initial": "Z"
+  }
+]

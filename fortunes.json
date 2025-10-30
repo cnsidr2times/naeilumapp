@@ -1,0 +1,52 @@
+[
+  {
+    "category": "Love",
+    "messages": [
+      "Love finds you when you're true to yourself",
+      "A meaningful connection awaits around the corner",
+      "Your kindness will attract genuine affection today",
+      "Open your heart to unexpected encounters",
+      "Love grows stronger through small acts of care"
+    ]
+  },
+  {
+    "category": "Career",
+    "messages": [
+      "Your dedication will be recognized soon",
+      "A new opportunity aligns with your passion",
+      "Trust your instincts in professional matters",
+      "Collaboration brings unexpected success today",
+      "Your unique perspective adds value to any team"
+    ]
+  },
+  {
+    "category": "Wealth",
+    "messages": [
+      "Financial wisdom comes through patient planning",
+      "An unexpected gain brightens your day",
+      "Your investments of time and effort pay off",
+      "Abundance flows when you share generously",
+      "Smart decisions today secure tomorrow's comfort"
+    ]
+  },
+  {
+    "category": "Health",
+    "messages": [
+      "Your body thanks you for mindful choices",
+      "Energy flows freely when you rest well",
+      "Small healthy habits create big changes",
+      "Listen to your body's wisdom today",
+      "Balance in all things brings vitality"
+    ]
+  },
+  {
+    "category": "Wisdom",
+    "messages": [
+      "A lesson from the past illuminates your path",
+      "Your experience becomes someone's guidance",
+      "Quiet reflection reveals important answers",
+      "Knowledge transforms into wisdom through action",
+      "Every challenge teaches valuable lessons"
+    ]
+  }
+]
