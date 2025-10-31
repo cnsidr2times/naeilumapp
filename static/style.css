@@ -18,6 +18,15 @@
     unicode-range: U+1100-11FF, U+3130-318F, U+AC00-D7A3;
 }
 
+
+@font-face {
+    font-family: 'TiemposHeadline';
+    src: url('/static/fonts/TiemposLight.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
 /* Brand tokens */
 
 :root {
@@ -115,7 +124,7 @@ body {
     padding: 10px 16px;
     font-family: 'TwkLausanne', 'Marcellus', serif;
     font-size: clamp(11px, 1.6vw, 13px);
-    letter-spacing: 0.08em;
+    letter-spacing: 0.045em;
     text-transform: uppercase;
     color: var(--text-muted);
     font-weight: 600;
@@ -213,14 +222,14 @@ body {
 
 @media (max-width: 640px) {
     .screen {
-        margin-top: clamp(22px, 15vw, 48px);
-        margin-bottom: clamp(14px, 10vw, 24px);
-        padding: clamp(22px, 8vw, 34px) clamp(18px, 6vw, 28px) clamp(28px, 9vw, 40px);
+    margin-top: clamp(22px, 15vw, 48px);
+    margin-bottom: clamp(14px, 10vw, 24px);
+    padding: clamp(22px, 8vw, 34px) clamp(18px, 6vw, 28px) clamp(28px, 9vw, 40px);
     }
 
     .screen .back-button {
-        top: calc(6px + env(safe-area-inset-top));
-        margin-left: clamp(4px, 5vw, 14px);
+    top: calc(6px + env(safe-area-inset-top));
+    margin-left: clamp(4px, 5vw, 14px);
     }
 }
 
@@ -285,9 +294,10 @@ a.btn-secondary:hover {
 /* Typography */
 
 .title {
-    font-family: 'TwkLausanne', 'Marcellus', serif;
+    font-family: 'TiemposHeadline', 'Marcellus', 'TwkLausanne', serif;
+    font-weight: 300;
     font-size: clamp(40px, 7vw, 56px);
-    letter-spacing: 0.1em;
+    letter-spacing: 0.015em;
     color: var(--primary);
     margin-bottom: 10px;
 }
@@ -302,7 +312,7 @@ a.btn-secondary:hover {
 
 .subtitle {
     font-size: clamp(18px, 2.4vw, 22px);
-    letter-spacing: 0.24em;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
     color: var(--accent);
     margin-bottom: 12px;
@@ -313,7 +323,7 @@ a.btn-secondary:hover {
     color: var(--text-muted);
     font-weight: 500;
     margin-bottom: clamp(22px, 5vw, 32px);
-    letter-spacing: 0.04em;
+    letter-spacing: 0.01em;
 }
 
 .intro-text {
@@ -728,7 +738,7 @@ a.btn-secondary:hover {
 
     .progress-step {
     padding: 6px 12px;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.06em;
     }
 
     .screen {
