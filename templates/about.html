@@ -1,63 +1,62 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Naeilum</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Naeilum</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
-<body>
-    <div class="container">
-        <div class="page-content">
-            <h1>About Naeilum</h1>
-            <p class="subtitle">내일:음 - Tomorrow's Sound</p>
+<body class="{{ page_class or '' }}">
+  <main class="legal-container about-card">
+    <h1>About Naeilum</h1>
+    <p class="subtitle">내일:음 — Tomorrow's Sound</p>
 
-            <section>
-                <h2>Our Mission</h2>
-                <p>Naeilum bridges cultures by helping international friends discover meaningful Korean names that resonate with their identity. Our name means "Tomorrow's Sound" (내일:음), representing the harmony between your heritage and Korean culture.</p>
-            </section>
+    <section>
+      <h2>Our Mission</h2>
+      <p>Naeilum bridges cultures by helping international friends discover meaningful Korean names that resonate with their identity. Our name means "Tomorrow's Sound" (내일:음), representing the harmony between your heritage and Korean culture.</p>
+    </section>
 
-            <section>
-                <h2>How It Works</h2>
-                <ul>
-                    <li><strong>Personalized Selection:</strong> We analyze your name's initial and characteristics to find matching Korean names</li>
-                    <li><strong>Meaningful Names:</strong> Each name comes with its Hanja (Chinese characters) and deep cultural meaning</li>
-                    <li><strong>Cultural Categories:</strong> Names are organized by themes like Wisdom, Courage, Beauty, and more</li>
-                    <li><strong>Daily Fortune:</strong> Get a unique fortune based on your Korean name that changes every day</li>
-                </ul>
-            </section>
+    <section>
+      <h2>How It Works</h2>
+      <ul>
+        <li><strong>Personalized Selection:</strong> We analyze your name's initial and characteristics to find matching Korean names</li>
+        <li><strong>Meaningful Names:</strong> Each name comes with its Hanja (Chinese characters) and deep cultural meaning</li>
+        <li><strong>Cultural Categories:</strong> Names are organized by themes like Wisdom, Courage, Beauty, and more</li>
+        <li><strong>Daily Fortune:</strong> Get a unique fortune based on your Korean name that changes every day</li>
+      </ul>
+    </section>
 
-            <section>
-                <h2>Name Categories</h2>
-                <p>Our Korean names are carefully curated and categorized by their meanings:</p>
-                <ul>
-                    <li><strong>Wisdom (지혜):</strong> Names representing intelligence and understanding</li>
-                    <li><strong>Courage (용기):</strong> Names symbolizing bravery and strength</li>
-                    <li><strong>Beauty (아름다움):</strong> Names reflecting grace and elegance</li>
-                    <li><strong>Hope (희망):</strong> Names carrying wishes for a bright future</li>
-                    <li><strong>Harmony (조화):</strong> Names emphasizing balance and peace</li>
-                    <li><strong>Love (사랑):</strong> Names expressing warmth and affection</li>
-                </ul>
-            </section>
+    <section>
+      <h2>Name Categories</h2>
+      <p>Our Korean names are carefully curated and categorized by their meanings:</p>
+      <ul>
+        <li><strong>Wisdom (지혜):</strong> Names representing intelligence and understanding</li>
+        <li><strong>Courage (용기):</strong> Names symbolizing bravery and strength</li>
+        <li><strong>Beauty (아름다움):</strong> Names reflecting grace and elegance</li>
+        <li><strong>Hope (희망):</strong> Names carrying wishes for a bright future</li>
+        <li><strong>Harmony (조화):</strong> Names emphasizing balance and peace</li>
+        <li><strong>Love (사랑):</strong> Names expressing warmth and affection</li>
+      </ul>
+    </section>
 
-            <section>
-                <h2>Cultural Significance</h2>
-                <p>In Korean culture, names carry deep meaning and are often chosen based on:</p>
-                <ul>
-                    <li>The meaning of Hanja characters</li>
-                    <li>Sound harmony and flow</li>
-                    <li>Wishes and hopes for the person's future</li>
-                    <li>Family traditions and values</li>
-                </ul>
-            </section>
+    <section>
+      <h2>Cultural Significance</h2>
+      <p>In Korean culture, names carry deep meaning and are often chosen based on:</p>
+      <ul>
+        <li>The meaning of Hanja characters</li>
+        <li>Sound harmony and flow</li>
+        <li>Wishes and hopes for the person's future</li>
+        <li>Family traditions and values</li>
+      </ul>
+    </section>
 
-            <section>
-                <h2>Privacy First</h2>
-                <p>We respect your privacy. No personal data is stored permanently, and all interactions are anonymous. Read our <a href="/privacy">Privacy Policy</a> for details.</p>
-            </section>
+    <section>
+      <h2>Privacy First</h2>
+      <p>We respect your privacy. No personal data is stored permanently, and all interactions are anonymous. Read our <a href="/privacy">Privacy Policy</a> for details.</p>
+    </section>
 
-            <a href="/" class="btn-primary">Find Your Korean Name</a>
-        </div>
-    </div>
+    <a href="/" class="btn btn-primary">Find Your Korean Name</a>
+  </main>
+  <script defer src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
