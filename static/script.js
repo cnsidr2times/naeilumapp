@@ -94,18 +94,39 @@ async function toggleTheme() {
   }
 }
 
+// 1) 교체: 첫 화면에만 버튼 생성 + body에 붙은 기존 토글 제거
 function setupThemeToggle() {
-  // If a toggle already exists in DOM, just wire it up.
-  let btn = document.querySelector('.theme-toggle');
+  // 정적(about/privacy) 페이지에서는 생성 안 함
+  const welcome = document.getElementById('welcome-screen');
+  if (!welcome) return;
+
+  // 혹시 예전 버전이 body에 만들어 둔 토글이 있으면 제거
+  const legacy = document.querySelector('body > .theme-toggle');
+  if (legacy) legacy.remove();
+
+  let btn = welcome.querySelector('.theme-toggle');
   if (!btn) {
-    // Create a floating toggle if not present
     btn = document.createElement('button');
-    btn.className = 'theme-toggle';
+    btn.className = 'theme-toggle theme-toggle--welcome';
     btn.type = 'button';
     btn.textContent = 'Toggle Theme';
-    document.body.appendChild(btn);
+
+    // footer-links 위에 배치(없으면 맨 끝에)
+    const footerLinks = welcome.querySelector('.footer-links');
+    if (footerLinks) {
+      welcome.insertBefore(btn, footerLinks);
+    } else {
+      welcome.appendChild(btn);
+    }
   }
   btn.addEventListener('click', toggleTheme);
+}
+
+// 2) 추가: 화면 전환 시 토글 보이기/숨기기
+function updateThemeToggleVisibility(activeScreenId) {
+  const btn = document.querySelector('#welcome-screen .theme-toggle');
+  if (!btn) return;
+  btn.style.display = (activeScreenId === 'welcome-screen') ? '' : 'none';
 }
 
 /* Boot */
@@ -166,6 +187,10 @@ function showScreen(screenId, options = {}) {
   if (screenId === 'selection-screen') {
     attachCardEnhancements();
   }
+  if (screenId === 'selection-screen') {
+    attachCardEnhancements();
+  }
+  updateThemeToggleVisibility(screenId); // ← 추가
 }
 
 function goBack(targetScreenId) {

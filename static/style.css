@@ -1943,3 +1943,10 @@ body.legal hr,
         border-color: rgba(111, 140, 192, 0.5);
     }
 }
+
+/* 첫 화면 전용 테마 토글 배치: 가운데 하단 쪽 */
+#welcome-screen .theme-toggle {
+    position: relative;      /* 고정 아님 */
+    display: inline-flex;
+    margin: clamp(16px, 4vw, 28px) auto 0; /* 가운데 정렬 + 아래쪽 여백 */
+  }
