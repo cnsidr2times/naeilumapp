@@ -4,123 +4,137 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Naeilum - Korean Name Finder</title>
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="Naeilum - Korean Name Finder" id="og-title">
+    <meta property="og:description" content="Discover your meaningful Korean name" id="og-description">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="" id="og-url">
+
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
     <div class="container">
-        <!-- Step 1: Welcome Screen -->
-        <div id="welcome-screen" class="screen active">
-            <div class="logo-section">
-                <h1 class="title">Naeilum</h1>
-                <p class="subtitle">내일:음</p>
-                <p class="tagline">Discover Your Korean Name</p>
-            </div>
+    <!-- Step 1: Welcome Screen -->
+    <div id="welcome-screen" class="screen active">
+    <div class="logo-section">
+    <h1 class="title">Naeilum</h1>
+    <p class="subtitle">내일:음</p>
+    <p class="tagline">Discover Your Korean Name</p>
+    </div>
 
-            <div class="intro-text">
-                <p>Welcome to Naeilum! We'll help you find a meaningful Korean name that resonates with your identity.</p>
-            </div>
+    <div class="intro-text">
+    <p>Welcome to Naeilum! We'll help you find a meaningful Korean name that resonates with your identity.</p>
+    </div>
 
-            <button class="btn-primary" onclick="showNameInput()">Get Started</button>
+    <button class="btn-primary" onclick="showNameInput()">Get Started</button>
 
-            <div class="footer-links">
-                <a href="/about">About Naeilum</a> | 
-                <a href="/privacy">Privacy Policy</a>
-            </div>
-        </div>
+    <div class="footer-links">
+    <a href="/about">About Naeilum</a> | 
+    <a href="/privacy">Privacy Policy</a>
+    </div>
+    </div>
 
-        <!-- Step 2: Name Input -->
-        <div id="name-input-screen" class="screen">
-            <button class="back-button" onclick="goBack('welcome-screen')">← Back</button>
+    <!-- Step 2: Name Input -->
+    <div id="name-input-screen" class="screen">
+    <button class="back-button" onclick="goBack('welcome-screen')">← Back</button>
 
-            <h2>Tell us about yourself</h2>
-            <p class="instruction">Enter your name and select your gender preference for the Korean name</p>
+    <h2>Tell us about yourself</h2>
+    <p class="instruction">Enter your name and select your gender preference for the Korean name</p>
 
-            <form id="name-form">
-                <div class="form-group">
-                    <label for="name">Your Name</label>
-                    <input type="text" id="name" name="name" placeholder="e.g., John Smith" required>
-                </div>
+    <form id="name-form">
+    <div class="form-group">
+    <label for="name">Your Name</label>
+    <input type="text" id="name" name="name" placeholder="e.g., John Smith" required>
+    </div>
 
-                <div class="form-group">
-                    <label>Gender Preference</label>
-                    <div class="radio-group">
-                        <label class="radio-label">
-                            <input type="radio" name="gender" value="male" checked>
-                            <span>Male Names</span>
-                        </label>
-                        <label class="radio-label">
-                            <input type="radio" name="gender" value="female">
-                            <span>Female Names</span>
-                        </label>
-                    </div>
-                </div>
+    <div class="form-group">
+    <label>Gender Preference</label>
+    <div class="radio-group">
+    <label class="radio-label">
+    <input type="radio" name="gender" value="male" checked>
+    <span>Male Names</span>
+    </label>
+    <label class="radio-label">
+    <input type="radio" name="gender" value="female">
+    <span>Female Names</span>
+    </label>
+    </div>
+    </div>
 
-                <button type="submit" class="btn-primary">Find My Korean Name</button>
-            </form>
-        </div>
+    <button type="submit" class="btn-primary">Find My Korean Name</button>
+    </form>
+    </div>
 
-        <!-- Step 3: Name Selection -->
-        <div id="selection-screen" class="screen">
-            <button class="back-button" onclick="goBack('name-input-screen')">← Back</button>
+    <!-- Step 3: Name Selection -->
+    <div id="selection-screen" class="screen">
+    <button class="back-button" onclick="goBack('name-input-screen')">← Back</button>
 
-            <h2>Choose Your Korean Name</h2>
-            <p class="instruction">We've selected these meaningful names based on your input</p>
+    <h2>Choose Your Korean Name</h2>
+    <p class="instruction">We've selected these meaningful names based on your input</p>
 
-            <div id="name-cards" class="name-cards">
-                <!-- Name cards will be inserted here -->
-            </div>
-        </div>
+    <div id="name-cards" class="name-cards">
+    <!-- Name cards will be inserted here -->
+    </div>
+    </div>
 
-        <!-- Step 4: Result Screen -->
-        <div id="result-screen" class="screen">
-            <button class="back-button" onclick="goBack('selection-screen')">← Back</button>
+    <!-- Step 4: Result Screen -->
+    <div id="result-screen" class="screen">
+    <button class="back-button" onclick="goBack('selection-screen')">← Back</button>
 
-            <h2>Your Korean Name</h2>
+    <h2>Your Korean Name</h2>
 
-            <div class="result-card">
-                <div class="korean-name-display">
-                    <h1 id="korean-name-large"></h1>
-                    <p id="korean-name-hanja"></p>
-                </div>
+    <div class="result-card" id="result-card">
+    <div class="korean-name-display">
+    <h1 id="korean-name-large"></h1>
+    <p id="korean-name-romanization" class="korean-name-romanization"></p>
+    <p id="korean-name-hanja"></p>
+    </div>
 
-                <div class="name-meaning">
-                    <h3>Meaning</h3>
-                    <p id="name-meaning-text"></p>
-                    <p class="name-category">Category: <span id="name-category"></span></p>
-                </div>
+    <div class="name-meaning">
+    <h3>Meaning</h3>
+    <p id="name-meaning-text"></p>
+    <p class="name-category">Category: <span id="name-category"></span></p>
+    </div>
 
-                <div class="original-name">
-                    <p>Korean name for: <strong id="original-name-display"></strong></p>
-                </div>
-            </div>
+    <div class="original-name">
+    <p>Korean name for: <strong id="original-name-display"></strong></p>
+    </div>
 
-            <button class="btn-secondary" onclick="showFortune()">View Today's Fortune</button>
-            <button class="btn-primary" onclick="startOver()">Find Another Name</button>
-        </div>
+    <div class="result-card-actions" id="result-actions">
+    <!-- Action buttons will be inserted here by JavaScript -->
+    </div>
+    </div>
 
-        <!-- Step 5: Fortune Screen -->
-        <div id="fortune-screen" class="screen">
-            <button class="back-button" onclick="goBack('result-screen')">← Back</button>
+    <button class="btn-secondary" onclick="showFortune()">View Today's Fortune</button>
+    <button class="btn-primary" onclick="startOver()">Find Another Name</button>
+    </div>
 
-            <h2>Your Daily Fortune</h2>
-            <p class="fortune-date">Fortune for: <span id="fortune-date"></span></p>
+    <!-- Step 5: Fortune Screen -->
+    <div id="fortune-screen" class="screen">
+    <button class="back-button" onclick="goBack('result-screen')">← Back</button>
 
-            <div id="fortune-cards" class="fortune-cards">
-                <!-- Fortune cards will be inserted here -->
-            </div>
+    <h2>Your Daily Fortune</h2>
+    <p class="fortune-date">Fortune for: <span id="fortune-date"></span></p>
 
-            <div class="fortune-note">
-                <p>Your fortune is unique to your Korean name and changes daily!</p>
-            </div>
+    <div id="fortune-cards" class="fortune-cards">
+    <!-- Fortune cards will be inserted here -->
+    </div>
 
-            <button class="btn-primary" onclick="startOver()">Find Another Name</button>
-        </div>
+    <div class="fortune-note">
+    <p>Your fortune is unique to your Korean name and changes daily!</p>
+    </div>
 
-        <!-- Loading Overlay -->
-        <div id="loading-overlay" class="loading-overlay">
-            <div class="spinner"></div>
-            <p>Finding your perfect Korean name...</p>
-        </div>
+    <button class="btn-primary" onclick="startOver()">Find Another Name</button>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loading-overlay" class="loading-overlay">
+    <div class="loading-content">
+    <div class="spinner"></div>
+    <p class="loading-text">Finding your perfect Korean name...</p>
+    </div>
+    </div>
     </div>
 
     <script src="{{ url_for('static', filename='script.js') }}"></script>
