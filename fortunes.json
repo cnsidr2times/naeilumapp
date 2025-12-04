@@ -1,52 +1,662 @@
 [
   {
     "category": "Love",
+    "category_ko": "사랑",
     "messages": [
-      "Love finds you when you're true to yourself",
-      "A meaningful connection awaits around the corner",
-      "Your kindness will attract genuine affection today",
-      "Open your heart to unexpected encounters",
-      "Love grows stronger through small acts of care"
+      {
+        "en": "Love finds you when you're true to yourself",
+        "ko": "진정한 나 자신일 때 사랑이 찾아옵니다"
+      },
+      {
+        "en": "A meaningful connection awaits around the corner",
+        "ko": "의미 있는 인연이 가까이에서 기다리고 있습니다"
+      },
+      {
+        "en": "Your kindness will attract genuine affection today",
+        "ko": "당신의 친절함이 진심 어린 사랑을 끌어당길 것입니다"
+      },
+      {
+        "en": "Open your heart to unexpected encounters",
+        "ko": "예상치 못한 만남에 마음을 열어보세요"
+      },
+      {
+        "en": "Love grows stronger through small acts of care",
+        "ko": "작은 배려가 사랑을 더욱 깊게 만듭니다"
+      },
+      {
+        "en": "Someone is thinking of you right now",
+        "ko": "지금 이 순간 누군가가 당신을 생각하고 있습니다"
+      },
+      {
+        "en": "Your warmth creates lasting bonds",
+        "ko": "당신의 따뜻함이 영원한 인연을 만듭니다"
+      },
+      {
+        "en": "Past wounds heal when true love arrives",
+        "ko": "진정한 사랑이 오면 과거의 상처가 치유됩니다"
+      },
+      {
+        "en": "A heartfelt conversation deepens your relationship",
+        "ko": "진심 어린 대화가 관계를 깊게 합니다"
+      },
+      {
+        "en": "Trust the timing of your heart",
+        "ko": "마음의 타이밍을 믿으세요"
+      },
+      {
+        "en": "Love letters, even unwritten, carry meaning",
+        "ko": "쓰지 않은 연애편지에도 의미가 담겨 있습니다"
+      },
+      {
+        "en": "Your soulmate may already be in your life",
+        "ko": "당신의 운명의 상대가 이미 곁에 있을지도 모릅니다"
+      },
+      {
+        "en": "Forgiveness opens doors to deeper love",
+        "ko": "용서가 더 깊은 사랑의 문을 엽니다"
+      },
+      {
+        "en": "Romance blooms in unexpected places",
+        "ko": "로맨스는 예상치 못한 곳에서 피어납니다"
+      },
+      {
+        "en": "Your love story is still being written",
+        "ko": "당신의 사랑 이야기는 아직 쓰여지고 있습니다"
+      }
     ]
   },
   {
     "category": "Career",
+    "category_ko": "직업",
     "messages": [
-      "Your dedication will be recognized soon",
-      "A new opportunity aligns with your passion",
-      "Trust your instincts in professional matters",
-      "Collaboration brings unexpected success today",
-      "Your unique perspective adds value to any team"
+      {
+        "en": "Your dedication will be recognized soon",
+        "ko": "당신의 헌신이 곧 인정받을 것입니다"
+      },
+      {
+        "en": "A new opportunity aligns with your passion",
+        "ko": "새로운 기회가 당신의 열정과 만날 것입니다"
+      },
+      {
+        "en": "Trust your instincts in professional matters",
+        "ko": "업무에서 직감을 믿으세요"
+      },
+      {
+        "en": "Collaboration brings unexpected success today",
+        "ko": "협업이 예상치 못한 성공을 가져다 줍니다"
+      },
+      {
+        "en": "Your unique perspective adds value to any team",
+        "ko": "당신의 독특한 시각이 팀에 가치를 더합니다"
+      },
+      {
+        "en": "A promotion or raise is on the horizon",
+        "ko": "승진이나 급여 인상이 다가오고 있습니다"
+      },
+      {
+        "en": "Your hard work plants seeds for future harvest",
+        "ko": "오늘의 노력이 미래의 풍요를 준비합니다"
+      },
+      {
+        "en": "A mentor appears when you need guidance most",
+        "ko": "가장 필요한 순간에 멘토가 나타날 것입니다"
+      },
+      {
+        "en": "Bold moves create breakthrough opportunities",
+        "ko": "과감한 행동이 돌파구를 만듭니다"
+      },
+      {
+        "en": "Your skills are more valuable than you realize",
+        "ko": "당신의 능력은 생각보다 더 가치 있습니다"
+      },
+      {
+        "en": "Today's challenge becomes tomorrow's expertise",
+        "ko": "오늘의 도전이 내일의 전문성이 됩니다"
+      },
+      {
+        "en": "Networking today yields results tomorrow",
+        "ko": "오늘의 네트워킹이 내일의 결과를 만듭니다"
+      },
+      {
+        "en": "A creative solution appears when you least expect",
+        "ko": "예상치 못한 순간 창의적인 해결책이 떠오릅니다"
+      },
+      {
+        "en": "Your reputation precedes you in a good way",
+        "ko": "좋은 평판이 당신보다 먼저 도착합니다"
+      },
+      {
+        "en": "The career change you're considering will succeed",
+        "ko": "고민 중인 커리어 전환이 성공할 것입니다"
+      }
     ]
   },
   {
     "category": "Wealth",
+    "category_ko": "재물",
     "messages": [
-      "Financial wisdom comes through patient planning",
-      "An unexpected gain brightens your day",
-      "Your investments of time and effort pay off",
-      "Abundance flows when you share generously",
-      "Smart decisions today secure tomorrow's comfort"
+      {
+        "en": "Financial wisdom comes through patient planning",
+        "ko": "재정적 지혜는 인내심 있는 계획에서 옵니다"
+      },
+      {
+        "en": "An unexpected gain brightens your day",
+        "ko": "예상치 못한 수입이 하루를 밝게 합니다"
+      },
+      {
+        "en": "Your investments of time and effort pay off",
+        "ko": "시간과 노력의 투자가 결실을 맺습니다"
+      },
+      {
+        "en": "Abundance flows when you share generously",
+        "ko": "나눌 때 풍요가 흘러들어옵니다"
+      },
+      {
+        "en": "Smart decisions today secure tomorrow's comfort",
+        "ko": "오늘의 현명한 결정이 내일의 여유를 만듭니다"
+      },
+      {
+        "en": "A lucky number brings fortune your way",
+        "ko": "행운의 숫자가 재물을 가져다 줍니다"
+      },
+      {
+        "en": "Old debts clear and new prosperity arrives",
+        "ko": "오래된 빚이 정리되고 새로운 번영이 찾아옵니다"
+      },
+      {
+        "en": "Your financial intuition is strong today",
+        "ko": "오늘 당신의 재정적 직감이 강합니다"
+      },
+      {
+        "en": "A small investment leads to significant returns",
+        "ko": "작은 투자가 큰 수익으로 돌아옵니다"
+      },
+      {
+        "en": "Money saved today multiplies tomorrow",
+        "ko": "오늘 아낀 돈이 내일 불어납니다"
+      },
+      {
+        "en": "Unexpected inheritance or windfall approaches",
+        "ko": "예상치 못한 유산이나 횡재가 다가옵니다"
+      },
+      {
+        "en": "Your side project shows profit potential",
+        "ko": "부업이 수익의 가능성을 보여줍니다"
+      },
+      {
+        "en": "Financial stress eases as solutions appear",
+        "ko": "해결책이 나타나며 재정적 스트레스가 줄어듭니다"
+      },
+      {
+        "en": "Prosperity follows those who persevere",
+        "ko": "끈기 있는 자에게 번영이 따릅니다"
+      },
+      {
+        "en": "The universe supports your financial goals",
+        "ko": "우주가 당신의 재정적 목표를 응원합니다"
+      }
     ]
   },
   {
     "category": "Health",
+    "category_ko": "건강",
     "messages": [
-      "Your body thanks you for mindful choices",
-      "Energy flows freely when you rest well",
-      "Small healthy habits create big changes",
-      "Listen to your body's wisdom today",
-      "Balance in all things brings vitality"
+      {
+        "en": "Your body thanks you for mindful choices",
+        "ko": "당신의 몸이 현명한 선택에 감사합니다"
+      },
+      {
+        "en": "Energy flows freely when you rest well",
+        "ko": "충분한 휴식이 에너지를 가져다 줍니다"
+      },
+      {
+        "en": "Small healthy habits create big changes",
+        "ko": "작은 건강 습관이 큰 변화를 만듭니다"
+      },
+      {
+        "en": "Listen to your body's wisdom today",
+        "ko": "오늘 몸의 지혜에 귀 기울여 보세요"
+      },
+      {
+        "en": "Balance in all things brings vitality",
+        "ko": "모든 것의 균형이 활력을 가져옵니다"
+      },
+      {
+        "en": "A morning walk clears both mind and body",
+        "ko": "아침 산책이 몸과 마음을 맑게 합니다"
+      },
+      {
+        "en": "Hydration brings clarity and energy today",
+        "ko": "충분한 수분 섭취가 맑은 정신과 에너지를 줍니다"
+      },
+      {
+        "en": "Your immune system grows stronger daily",
+        "ko": "당신의 면역력이 날마다 강해지고 있습니다"
+      },
+      {
+        "en": "Stress releases when you breathe deeply",
+        "ko": "깊은 호흡으로 스트레스가 풀립니다"
+      },
+      {
+        "en": "Physical activity sparks mental creativity",
+        "ko": "신체 활동이 정신적 창의력을 자극합니다"
+      },
+      {
+        "en": "Your healing journey progresses beautifully",
+        "ko": "치유의 여정이 순조롭게 진행되고 있습니다"
+      },
+      {
+        "en": "Nature's medicine surrounds you everywhere",
+        "ko": "자연의 치유력이 당신을 둘러싸고 있습니다"
+      },
+      {
+        "en": "Tonight's sleep brings deep restoration",
+        "ko": "오늘 밤 숙면이 깊은 회복을 가져다 줍니다"
+      },
+      {
+        "en": "Your positive mindset boosts physical health",
+        "ko": "긍정적인 마음가짐이 신체 건강을 높입니다"
+      },
+      {
+        "en": "The food you choose nourishes your soul",
+        "ko": "당신이 선택한 음식이 영혼까지 채워줍니다"
+      }
     ]
   },
   {
     "category": "Wisdom",
+    "category_ko": "지혜",
     "messages": [
-      "A lesson from the past illuminates your path",
-      "Your experience becomes someone's guidance",
-      "Quiet reflection reveals important answers",
-      "Knowledge transforms into wisdom through action",
-      "Every challenge teaches valuable lessons"
+      {
+        "en": "A lesson from the past illuminates your path",
+        "ko": "과거의 교훈이 당신의 길을 밝힙니다"
+      },
+      {
+        "en": "Your experience becomes someone's guidance",
+        "ko": "당신의 경험이 누군가의 길잡이가 됩니다"
+      },
+      {
+        "en": "Quiet reflection reveals important answers",
+        "ko": "고요한 성찰이 중요한 답을 보여줍니다"
+      },
+      {
+        "en": "Knowledge transforms into wisdom through action",
+        "ko": "지식은 행동을 통해 지혜가 됩니다"
+      },
+      {
+        "en": "Every challenge teaches valuable lessons",
+        "ko": "모든 도전에는 소중한 교훈이 있습니다"
+      },
+      {
+        "en": "Ancient wisdom speaks through modern situations",
+        "ko": "옛 지혜가 현대의 상황을 통해 말합니다"
+      },
+      {
+        "en": "Your inner voice knows the right path",
+        "ko": "내면의 목소리가 올바른 길을 알고 있습니다"
+      },
+      {
+        "en": "Patience today prevents regret tomorrow",
+        "ko": "오늘의 인내가 내일의 후회를 막습니다"
+      },
+      {
+        "en": "True wisdom comes from embracing uncertainty",
+        "ko": "진정한 지혜는 불확실성을 받아들이는 데서 옵니다"
+      },
+      {
+        "en": "Books open doors that experience confirms",
+        "ko": "책이 열어준 문을 경험이 확인시켜 줍니다"
+      },
+      {
+        "en": "Silence speaks louder than many words",
+        "ko": "침묵이 많은 말보다 크게 말합니다"
+      },
+      {
+        "en": "Your mistakes are stepping stones to mastery",
+        "ko": "당신의 실수가 숙련으로 가는 디딤돌입니다"
+      },
+      {
+        "en": "Simplicity holds profound truth",
+        "ko": "단순함 속에 깊은 진리가 있습니다"
+      },
+      {
+        "en": "The teacher appears when the student is ready",
+        "ko": "학생이 준비되면 스승이 나타납니다"
+      },
+      {
+        "en": "Your intuition connects to universal wisdom",
+        "ko": "당신의 직감이 우주의 지혜와 연결되어 있습니다"
+      }
+    ]
+  },
+  {
+    "category": "Luck",
+    "category_ko": "행운",
+    "messages": [
+      {
+        "en": "Today is your lucky day - seize it",
+        "ko": "오늘은 당신의 행운의 날입니다 - 잡으세요"
+      },
+      {
+        "en": "Fortune favors the bold today",
+        "ko": "오늘 행운은 용감한 자의 편입니다"
+      },
+      {
+        "en": "A chance encounter changes everything",
+        "ko": "우연한 만남이 모든 것을 바꿉니다"
+      },
+      {
+        "en": "Stars align in your favor this moment",
+        "ko": "이 순간 별들이 당신을 위해 정렬합니다"
+      },
+      {
+        "en": "Lucky breaks come to those who try",
+        "ko": "행운은 도전하는 자에게 찾아옵니다"
+      },
+      {
+        "en": "Your positive energy attracts good fortune",
+        "ko": "당신의 긍정적 에너지가 행운을 끌어당깁니다"
+      },
+      {
+        "en": "An unexpected gift arrives soon",
+        "ko": "예상치 못한 선물이 곧 도착합니다"
+      },
+      {
+        "en": "The lottery of life smiles upon you",
+        "ko": "인생의 복권이 당신에게 미소 짓습니다"
+      },
+      {
+        "en": "Serendipity guides your steps today",
+        "ko": "우연한 행운이 오늘 당신의 발걸음을 이끕니다"
+      },
+      {
+        "en": "Good karma returns to you multiplied",
+        "ko": "좋은 업보가 배가 되어 돌아옵니다"
+      },
+      {
+        "en": "A four-leaf clover moment awaits",
+        "ko": "네잎클로버 같은 순간이 기다리고 있습니다"
+      },
+      {
+        "en": "Luck knocks - be ready to answer",
+        "ko": "행운이 노크합니다 - 응답할 준비를 하세요"
+      },
+      {
+        "en": "Your lucky charm activates today",
+        "ko": "당신의 행운의 부적이 오늘 활성화됩니다"
+      },
+      {
+        "en": "Coincidences are the universe's winks",
+        "ko": "우연의 일치는 우주의 윙크입니다"
+      },
+      {
+        "en": "Fortune cookies speak truth for you today",
+        "ko": "오늘 포춘쿠키가 당신에게 진실을 말합니다"
+      }
+    ]
+  },
+  {
+    "category": "Family",
+    "category_ko": "가족",
+    "messages": [
+      {
+        "en": "Family bonds strengthen through understanding",
+        "ko": "이해를 통해 가족의 유대가 강해집니다"
+      },
+      {
+        "en": "A loved one needs your support today",
+        "ko": "오늘 사랑하는 사람이 당신의 지지를 필요로 합니다"
+      },
+      {
+        "en": "Home becomes a sanctuary of peace",
+        "ko": "집이 평화의 안식처가 됩니다"
+      },
+      {
+        "en": "Children bring unexpected joy today",
+        "ko": "아이들이 오늘 예상치 못한 기쁨을 가져다 줍니다"
+      },
+      {
+        "en": "Ancestors watch over you with pride",
+        "ko": "조상님들이 자랑스럽게 당신을 지켜봅니다"
+      },
+      {
+        "en": "A family gathering brings healing",
+        "ko": "가족 모임이 치유를 가져다 줍니다"
+      },
+      {
+        "en": "Your parents' wisdom echoes in your choices",
+        "ko": "부모님의 지혜가 당신의 선택에 울려 퍼집니다"
+      },
+      {
+        "en": "Sibling relationships deepen with time",
+        "ko": "형제자매와의 관계가 시간이 지나며 깊어집니다"
+      },
+      {
+        "en": "Creating new traditions strengthens bonds",
+        "ko": "새로운 전통을 만드는 것이 유대를 강화합니다"
+      },
+      {
+        "en": "A family secret reveals itself positively",
+        "ko": "가족의 비밀이 긍정적으로 드러납니다"
+      },
+      {
+        "en": "Your family tree blooms with new life",
+        "ko": "당신의 가계도에 새 생명이 꽃핍니다"
+      },
+      {
+        "en": "Forgiveness within family brings freedom",
+        "ko": "가족 내 용서가 자유를 가져다 줍니다"
+      },
+      {
+        "en": "Shared meals nourish more than bodies",
+        "ko": "함께하는 식사가 몸 이상의 것을 채워줍니다"
+      },
+      {
+        "en": "Family photos capture eternal moments",
+        "ko": "가족 사진이 영원한 순간을 담습니다"
+      },
+      {
+        "en": "Your family's legacy lives through you",
+        "ko": "당신 가족의 유산이 당신을 통해 살아갑니다"
+      }
+    ]
+  },
+  {
+    "category": "Friendship",
+    "category_ko": "우정",
+    "messages": [
+      {
+        "en": "A true friend reveals themselves today",
+        "ko": "진정한 친구가 오늘 모습을 드러냅니다"
+      },
+      {
+        "en": "Old friendships rekindle with joy",
+        "ko": "오래된 우정이 기쁨과 함께 다시 타오릅니다"
+      },
+      {
+        "en": "Your loyalty inspires deep trust",
+        "ko": "당신의 충성심이 깊은 신뢰를 불러일으킵니다"
+      },
+      {
+        "en": "A friend's advice proves invaluable",
+        "ko": "친구의 조언이 값진 것으로 증명됩니다"
+      },
+      {
+        "en": "Shared laughter heals many wounds",
+        "ko": "함께 나눈 웃음이 많은 상처를 치유합니다"
+      },
+      {
+        "en": "New friendships blossom from shared interests",
+        "ko": "공통 관심사에서 새로운 우정이 꽃핍니다"
+      },
+      {
+        "en": "Distance cannot weaken true friendship",
+        "ko": "거리가 진정한 우정을 약하게 할 수 없습니다"
+      },
+      {
+        "en": "A friend's success becomes your joy",
+        "ko": "친구의 성공이 당신의 기쁨이 됩니다"
+      },
+      {
+        "en": "Honest conversations deepen connections",
+        "ko": "솔직한 대화가 관계를 깊게 합니다"
+      },
+      {
+        "en": "Your social circle expands beautifully",
+        "ko": "당신의 인간관계가 아름답게 넓어집니다"
+      },
+      {
+        "en": "A childhood friend returns unexpectedly",
+        "ko": "어린 시절 친구가 예상치 못하게 돌아옵니다"
+      },
+      {
+        "en": "Friendships survive tests and grow stronger",
+        "ko": "우정은 시험을 견디고 더 강해집니다"
+      },
+      {
+        "en": "Your kindness makes you a cherished friend",
+        "ko": "당신의 친절함이 소중한 친구로 만듭니다"
+      },
+      {
+        "en": "Group activities bring surprising connections",
+        "ko": "단체 활동이 놀라운 인연을 가져다 줍니다"
+      },
+      {
+        "en": "A friend's gratitude warms your heart today",
+        "ko": "친구의 감사가 오늘 당신의 마음을 따뜻하게 합니다"
+      }
+    ]
+  },
+  {
+    "category": "Travel",
+    "category_ko": "여행",
+    "messages": [
+      {
+        "en": "An adventure awaits beyond the horizon",
+        "ko": "지평선 너머에 모험이 기다리고 있습니다"
+      },
+      {
+        "en": "Journey plans fall perfectly into place",
+        "ko": "여행 계획이 완벽하게 자리 잡습니다"
+      },
+      {
+        "en": "New places awaken dormant dreams",
+        "ko": "새로운 장소가 잠든 꿈을 깨웁니다"
+      },
+      {
+        "en": "Travel companions appear at the right time",
+        "ko": "여행 동반자가 적시에 나타납니다"
+      },
+      {
+        "en": "Foreign lands hold lessons for your soul",
+        "ko": "외국 땅이 당신 영혼을 위한 교훈을 품고 있습니다"
+      },
+      {
+        "en": "A spontaneous trip brings transformation",
+        "ko": "즉흥적인 여행이 변화를 가져다 줍니다"
+      },
+      {
+        "en": "Lost paths lead to beautiful discoveries",
+        "ko": "길을 잃으면 아름다운 발견으로 이어집니다"
+      },
+      {
+        "en": "Your dream destination calls to you",
+        "ko": "꿈꾸던 여행지가 당신을 부르고 있습니다"
+      },
+      {
+        "en": "Travel delays serve hidden purposes",
+        "ko": "여행 지연에는 숨겨진 목적이 있습니다"
+      },
+      {
+        "en": "Souvenirs carry more than memories",
+        "ko": "기념품은 추억 이상의 것을 담고 있습니다"
+      },
+      {
+        "en": "Cultural experiences expand your worldview",
+        "ko": "문화 체험이 당신의 세계관을 넓힙니다"
+      },
+      {
+        "en": "The journey matters more than the destination",
+        "ko": "여정이 목적지보다 중요합니다"
+      },
+      {
+        "en": "A map unfolds new possibilities for you",
+        "ko": "지도가 당신에게 새로운 가능성을 펼칩니다"
+      },
+      {
+        "en": "Airport encounters lead to lasting memories",
+        "ko": "공항에서의 만남이 오래 남는 추억이 됩니다"
+      },
+      {
+        "en": "Your passport holds stories yet unwritten",
+        "ko": "당신의 여권에는 아직 쓰이지 않은 이야기가 있습니다"
+      }
+    ]
+  },
+  {
+    "category": "Creativity",
+    "category_ko": "창의력",
+    "messages": [
+      {
+        "en": "Inspiration strikes when you least expect",
+        "ko": "예상치 못한 순간에 영감이 찾아옵니다"
+      },
+      {
+        "en": "Your creative spark ignites new projects",
+        "ko": "당신의 창의적 불꽃이 새 프로젝트에 불을 붙입니다"
+      },
+      {
+        "en": "Art flows through you effortlessly today",
+        "ko": "오늘 예술이 당신을 통해 자연스럽게 흐릅니다"
+      },
+      {
+        "en": "Creative blocks dissolve with patience",
+        "ko": "인내로 창작의 막힘이 사라집니다"
+      },
+      {
+        "en": "Your imagination paints worlds unseen",
+        "ko": "당신의 상상력이 보이지 않는 세계를 그립니다"
+      },
+      {
+        "en": "Music speaks what words cannot express",
+        "ko": "음악이 말로 표현할 수 없는 것을 말합니다"
+      },
+      {
+        "en": "Colors reveal emotions waiting to be freed",
+        "ko": "색깔이 풀려나기를 기다리는 감정을 드러냅니다"
+      },
+      {
+        "en": "Writing unlocks doors within your mind",
+        "ko": "글쓰기가 마음속 문들을 열어줍니다"
+      },
+      {
+        "en": "Creative collaboration amplifies your vision",
+        "ko": "창의적 협업이 당신의 비전을 증폭시킵니다"
+      },
+      {
+        "en": "Mistakes become artistic breakthroughs",
+        "ko": "실수가 예술적 돌파구가 됩니다"
+      },
+      {
+        "en": "Your unique style is your greatest asset",
+        "ko": "당신만의 스타일이 가장 큰 자산입니다"
+      },
+      {
+        "en": "Dreams provide creative blueprints",
+        "ko": "꿈이 창의적인 청사진을 제공합니다"
+      },
+      {
+        "en": "Nature inspires your next masterpiece",
+        "ko": "자연이 당신의 다음 걸작에 영감을 줍니다"
+      },
+      {
+        "en": "Creative courage opens new doors",
+        "ko": "창의적 용기가 새로운 문을 엽니다"
+      },
+      {
+        "en": "Your art touches hearts you'll never meet",
+        "ko": "당신의 예술이 만나지 못할 이들의 마음을 울립니다"
+      }
     ]
   }
 ]

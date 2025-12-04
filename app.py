@@ -1,4 +1,4 @@
-##!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
 Naeilum (내일:음) - Korean Name Recommendation App
@@ -16,7 +16,9 @@ import re
 import secrets
 import unicodedata
 from datetime import datetime, timedelta
-from typing import Any, Dict, List, Optional, Tuple
+from difflib import SequenceMatcher
+from functools import lru_cache
+from typing import Any, Dict, List, Optional, Sequence, Tuple
 
 from flask import (
     Flask,
@@ -38,12 +40,27 @@ THEME_COOKIE_NAME = "theme"
 THEME_COOKIE_MAX_AGE = 365 * 24 * 60 * 60  # 1 year
 CSRF_HEADER_NAME = "X-CSRF-Token"
 
+HANGUL_BASE = 0xAC00
+HANGUL_LAST = 0xD7A3
+CHO_ROMA = [
+    "g", "kk", "n", "d", "tt", "r", "m", "b", "pp", "s", "ss", "",
+    "j", "jj", "ch", "k", "t", "p", "h",
+]
+JUNG_ROMA = [
+    "a", "ae", "ya", "yae", "eo", "e", "yeo", "ye", "o", "wa", "wae", "oe",
+    "yo", "u", "wo", "we", "wi", "yu", "eu", "ui", "i",
+]
+JONG_ROMA = [
+    "", "k", "k", "ks", "n", "nj", "nh", "t", "l", "lk", "lm", "lp", "lt",
+    "lp", "lh", "m", "p", "ps", "t", "t", "ng", "t", "t", "k", "t", "p", "t", "h",
+]
+
 app = Flask(__name__)
 app.secret_key = os.environ.get("NAEILUM_SECRET_KEY", secrets.token_hex(32))
 app.permanent_session_lifetime = timedelta(days=7)
 app.config.update(
     SESSION_COOKIE_SAMESITE="Lax",
-    SESSION_COOKIE_SECURE=os.environ.get("NAEILUM_SESSION_COOKIE_SECURE", "true").lower()
+    SESSION_COOKIE_SECURE=os.environ.get("NAEILUM_SESSION_COOKIE_SECURE", "false").lower()
     in {"1", "true", "yes"},
     SESSION_COOKIE_HTTPONLY=True,
 )
@@ -62,35 +79,22 @@ def generate_fallback_names() -> Dict[str, List[Dict[str, Any]]]:
     return {
         "male": [
             {
-                "name": "송월선",
-                "hanja": "宋蔚宣",
-                "category": "Wisdom",
-                "meaning": "One who proclaims great wisdom like a pine tree",
-                "initial": "W",
-                "special_match": "Wilson Smith",
-            },
-            {
-                "name": "박지후",
-                "hanja": "朴智厚",
-                "category": "Wisdom",
-                "meaning": "Wise and profound like a thick forest",
+                "name": "지훈",
+                "hanja": "志勳",
+                "romanization": ["Jihun", "Ji-hoon"],
+                "category": "Honor",
+                "meaning": "Ambitious and meritorious",
                 "initial": "J",
             },
         ],
         "female": [
             {
-                "name": "김서윤",
-                "hanja": "金瑞允",
+                "name": "서윤",
+                "hanja": "瑞允",
+                "romanization": ["Seoyun", "Seo-yoon"],
                 "category": "Grace",
                 "meaning": "A graceful blessing that shines brightly",
                 "initial": "S",
-            },
-            {
-                "name": "이하린",
-                "hanja": "李夏凜",
-                "category": "Creativity",
-                "meaning": "A creative spirit as refreshing as summer dew",
-                "initial": "H",
             },
         ],
     }
@@ -102,14 +106,14 @@ def _load_json_file(filename: str) -> Tuple[bool, List[Dict[str, Any]]]:
     try:
         with open(json_path, "r", encoding="utf-8") as file:
             data = json.load(file)
-        if isinstance(data, list):
-            return True, data
-        logger.warning("JSON structure unexpected in %s", filename)
+            if isinstance(data, list):
+                return True, data
+            logger.warning("JSON structure unexpected in %s", filename)
     except FileNotFoundError:
         logger.warning("JSON file not found: %s", filename)
     except json.JSONDecodeError as exc:
         logger.error("JSON decode error in %s: %s", filename, exc)
-    except Exception:  # noqa: BLE001
+    except Exception:
         logger.exception("Unexpected error loading %s", filename)
     return False, []
 
@@ -132,11 +136,11 @@ def load_fortunes() -> List[Dict[str, Any]]:
 
     logger.info("Using fallback fortunes.")
     return [
-        {"category": "Love", "messages": ["Love finds you when you're true to yourself"]},
-        {"category": "Career", "messages": ["Your dedication will be recognized soon"]},
-        {"category": "Wealth", "messages": ["Financial wisdom comes through patient planning"]},
-        {"category": "Health", "messages": ["Your body thanks you for mindful choices"]},
-        {"category": "Wisdom", "messages": ["A lesson from the past illuminates your path"]},
+        {"category": "Love", "category_ko": "사랑", "messages": [{"en": "Love finds you when you're true to yourself", "ko": "진정한 나 자신일 때 사랑이 찾아옵니다"}]},
+        {"category": "Career", "category_ko": "직업", "messages": [{"en": "Your dedication will be recognized soon", "ko": "당신의 헌신이 곧 인정받을 것입니다"}]},
+        {"category": "Wealth", "category_ko": "재물", "messages": [{"en": "Financial wisdom comes through patient planning", "ko": "재정적 지혜는 인내심 있는 계획에서 옵니다"}]},
+        {"category": "Health", "category_ko": "건강", "messages": [{"en": "Your body thanks you for mindful choices", "ko": "당신의 몸이 현명한 선택에 감사합니다"}]},
+        {"category": "Wisdom", "category_ko": "지혜", "messages": [{"en": "A lesson from the past illuminates your path", "ko": "과거의 교훈이 당신의 길을 밝힙니다"}]},
     ]
 
 
@@ -146,7 +150,7 @@ FORTUNES_DATA = load_fortunes()
 
 
 def normalize_name(name: str) -> str:
-    """Normalize name for matching - remove spaces and diacritics, convert to lowercase."""
+    """Normalize name for matching: strip spaces, diacritics, and punctuation."""
     normalized = unicodedata.normalize("NFD", name)
     normalized = "".join(char for char in normalized if unicodedata.category(char) != "Mn")
     normalized = re.sub(r"[^a-zA-Z0-9]", "", normalized).lower()
@@ -154,7 +158,7 @@ def normalize_name(name: str) -> str:
 
 
 def get_name_initial(name: str) -> str:
-    """Extract the first letter of the first name."""
+    """Extract the first alphabetic letter of the first word."""
     parts = name.strip().split()
     if not parts:
         return "A"
@@ -170,40 +174,136 @@ def generate_session_id() -> str:
     return hashlib.sha256(secrets.token_bytes(32)).hexdigest()[:16]
 
 
+@lru_cache(maxsize=4096)
+def romanize_syllable(char: str) -> str:
+    """Romanize a single Hangul syllable to Latin letters."""
+    code_point = ord(char)
+    if HANGUL_BASE <= code_point <= HANGUL_LAST:
+        index = code_point - HANGUL_BASE
+        cho = index // 588
+        jung = (index % 588) // 28
+        jong = index % 28
+        return (CHO_ROMA[cho] + JUNG_ROMA[jung] + JONG_ROMA[jong]).rstrip()
+    return char
+
+
+def romanize_korean_text(text: str) -> str:
+    """Romanize a full Hangul string."""
+    return "".join(romanize_syllable(ch) for ch in text)
+
+
+def get_candidate_romanization(name_entry: Dict[str, Any]) -> List[str]:
+    """Return all romanization candidates for a name entry."""
+    candidates: List[str] = []
+    romanized = name_entry.get("romanization")
+    if isinstance(romanized, str):
+        romanized = [romanized]
+    if isinstance(romanized, Sequence):
+        for value in romanized:
+            if isinstance(value, str) and value:
+                candidates.append(value)
+    hangul_name = name_entry.get("name", "")
+    if hangul_name:
+        candidates.append(romanize_korean_text(hangul_name))
+    seen: set[str] = set()
+    deduped: List[str] = []
+    for candidate in candidates:
+        key = candidate.lower()
+        if key not in seen:
+            seen.add(key)
+            deduped.append(candidate)
+    return deduped or [hangul_name]
+
+
+@lru_cache(maxsize=4096)
+def normalize_romanization(text: str) -> str:
+    """Normalize romanized text for similarity comparison."""
+    normalized = unicodedata.normalize("NFD", text)
+    normalized = "".join(ch for ch in normalized if unicodedata.category(ch) != "Mn")
+    normalized = re.sub(r"[^a-zA-Z]", "", normalized).lower()
+    return normalized
+
+
+def compute_similarity_score(english_name: str, name_entry: Dict[str, Any]) -> float:
+    """Compute a phonetic similarity score between an English name and a Korean entry."""
+    english_norm = normalize_romanization(english_name)
+    if not english_norm:
+        return 0.0
+
+    best_score = 0.0
+    for candidate in get_candidate_romanization(name_entry):
+        candidate_norm = normalize_romanization(candidate)
+        if not candidate_norm:
+            continue
+        ratio = SequenceMatcher(None, english_norm, candidate_norm).ratio()
+        if english_norm[:1] == candidate_norm[:1]:
+            ratio += 0.08
+        if english_norm[-1:] == candidate_norm[-1:]:
+            ratio += 0.04
+        ratio -= min(0.15, abs(len(english_norm) - len(candidate_norm)) * 0.015)
+        best_score = max(best_score, ratio)
+
+    if name_entry.get("initial", "").upper() == english_norm[:1].upper():
+        best_score += 0.03
+
+    return round(best_score, 6)
+
+
 def select_korean_names(original_name: str, gender: str) -> List[Dict[str, Any]]:
-    """Select Korean names based on the original name."""
-    names: List[Dict[str, Any]] = []
-    normalized_input = normalize_name(original_name)
-
-    if normalized_input == "wilsonsmith":
-        for name in NAMES_DATA.get("male", []):
-            if name.get("special_match") == "Wilson Smith":
-                names.append(name)
-                break
-        gender_names = NAMES_DATA.get("male", [])
-        available_names = [n for n in gender_names if not n.get("special_match")]
-        if available_names:
-            random.shuffle(available_names)
-            names.extend(available_names[:4])
-        return names[:5]
-
+    """Select Korean names based on English input and similarity scoring."""
     gender_names = NAMES_DATA.get(gender, [])
     if not gender_names:
         return []
 
-    initial = get_name_initial(original_name)
-    matching_names = [
-        name for name in gender_names if not name.get("special_match") and name.get("initial") == initial
-    ]
+    normalized_input = normalize_name(original_name)
+    selections: List[Dict[str, Any]] = []
 
-    if not matching_names:
-        matching_names = [n for n in gender_names if not n.get("special_match")]
+    # Prefer exact special matches if provided in the dataset
+    for entry in gender_names:
+        special = entry.get("special_match")
+        if special and normalize_name(special) == normalized_input:
+            selections.append(entry)
+            break
 
-    if matching_names:
-        random.shuffle(matching_names)
-        names = matching_names[:5]
+    scored_candidates: List[Tuple[float, float, Dict[str, Any]]] = []
+    for entry in gender_names:
+        if entry in selections or entry.get("special_match"):
+            continue
+        score = compute_similarity_score(original_name, entry)
+        scored_candidates.append((score, random.random(), entry))
 
-    return names
+    scored_candidates.sort(key=lambda item: (-item[0], item[1]))
+
+    seen_initials: set[str] = set()
+    seen_categories: set[str] = set()
+    seen_korean_names: set[str] = set()
+
+    for score, _, entry in scored_candidates:
+        if len(selections) >= 5:
+            break
+        korean_name = entry.get("name", "")
+        if korean_name in seen_korean_names:
+            continue
+        initial = entry.get("initial", "")
+        category = entry.get("category", "")
+        if initial in seen_initials and len(selections) < 3:
+            continue
+        if category in seen_categories and len(selections) >= 3:
+            continue
+        selections.append(entry)
+        if korean_name:
+            seen_korean_names.add(korean_name)
+        if initial:
+            seen_initials.add(initial)
+        if category:
+            seen_categories.add(category)
+
+    if len(selections) < 5:
+        leftovers = [entry for entry in gender_names if entry not in selections and entry.get("name", "") not in seen_korean_names]
+        random.shuffle(leftovers)
+        selections.extend(leftovers[: 5 - len(selections)])
+
+    return selections[:5]
 
 
 def get_daily_fortune(korean_name: str) -> List[Dict[str, str]]:
@@ -212,13 +312,25 @@ def get_daily_fortune(korean_name: str) -> List[Dict[str, str]]:
     seed_string = f"{korean_name}{today}"
     rng = random.Random(hashlib.md5(seed_string.encode(), usedforsecurity=False).hexdigest())
 
-    fortunes = []
+    fortunes: List[Dict[str, str]] = []
     for category_data in FORTUNES_DATA:
-        category = category_data["category"]
+        category = category_data.get("category", "")
+        category_ko = category_data.get("category_ko", category)
         messages = category_data.get("messages", [])
         if messages:
-            message = rng.choice(messages)
-            fortunes.append({"category": category, "message": message})
+            message_obj = rng.choice(messages)
+            if isinstance(message_obj, dict):
+                message_en = message_obj.get("en", "")
+                message_ko = message_obj.get("ko", "")
+            else:
+                message_en = str(message_obj)
+                message_ko = ""
+            fortunes.append({
+                "category": category,
+                "category_ko": category_ko,
+                "message": message_en,
+                "message_ko": message_ko
+            })
 
     return fortunes
 
@@ -228,7 +340,7 @@ def validate_gender(raw_gender: Optional[str]) -> str:
     if raw_gender not in ALLOWED_GENDERS:
         logger.warning("Invalid gender value received: %s", raw_gender)
         return "male"
-    return raw_gender  # type: ignore[return-value]
+    return raw_gender
 
 
 def ensure_csrf_token() -> str:
@@ -242,20 +354,14 @@ def ensure_csrf_token() -> str:
 
 
 def enforce_csrf(strict: bool) -> bool:
-    """
-    Validate CSRF token from header.
-
-    When strict=True, the header must be present and valid.
-    When strict=False, validation occurs only if the header is provided.
-    """
+    """Validate CSRF token from header."""
     provided = request.headers.get(CSRF_HEADER_NAME)
     expected = session.get("csrf_token")
 
     if not provided:
         if strict:
             logger.warning("CSRF token missing for strict endpoint %s", request.path)
-            return False
-        return True
+        return not strict
 
     if not expected:
         logger.warning("CSRF token not initialized for request %s", request.path)
@@ -385,12 +491,6 @@ def set_theme() -> Response:
 
     response = jsonify({"success": True, "theme": theme})
     response = persist_theme(theme, response)
-
-    # Example curl:
-    # curl -X POST http://localhost:5000/api/theme \
-    #      -H "Content-Type: application/json" \
-    #      -H "X-CSRF-Token: <token>" \
-    #      -d '{"theme": "dark"}'
     return response
 
 
