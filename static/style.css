@@ -2201,3 +2201,317 @@ body.legal hr,
         color: #ffd700;
     }
 }
+
+/* ---- */
+/* Name Card Icon Buttons    */
+/* ---- */
+
+.btn-icon {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 8px;
+    border-radius: 8px;
+    transition: background 0.2s var(--transition), transform 0.2s var(--transition);
+    min-width: 36px;
+    min-height: 36px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+}
+
+.btn-icon:hover {
+    background: rgba(35, 75, 122, 0.1);
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+.btn-icon:active {
+    transform: scale(0.95);
+}
+
+.name-card-header .name-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.name-card-actions {
+    display: flex;
+    gap: 2px;
+    flex-shrink: 0;
+    margin-left: 8px;
+}
+
+/* ---- */
+/* Result Screen Romanization    */
+/* ---- */
+
+.korean-name-romanization,
+#korean-name-romanization {
+    font-size: 20px;
+    color: var(--secondary);
+    font-weight: 500;
+    margin-bottom: 16px;
+    letter-spacing: 0.02em;
+}
+
+/* ---- */
+/* Result Actions Grid    */
+/* ---- */
+
+.result-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.result-actions .btn {
+    flex: 1;
+    min-width: 120px;
+    max-width: 160px;
+    padding: 12px 16px;
+    font-size: 14px;
+}
+
+.result-actions .btn-dynamic {
+    font-size: 13px;
+    padding: 10px 14px;
+}
+
+/* ---- */
+/* Loading Overlay Enhanced    */
+/* ---- */
+
+.loading-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(247, 243, 234, 0.95);
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    backdrop-filter: blur(8px);
+    z-index: 100;
+}
+
+.loading-overlay.active {
+    display: flex;
+}
+
+.loading-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.loading-spinner {
+    width: 48px;
+    height: 48px;
+    border: 3px solid rgba(35, 75, 122, 0.15);
+    border-top-color: var(--primary);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+.loading-text {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--text-strong);
+    letter-spacing: 0.02em;
+    animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+}
+
+/* ---- */
+/* Dark mode: New styles    */
+/* ---- */
+
+:root[data-theme="dark"] .btn-icon {
+    color: var(--text-muted-dark);
+}
+
+:root[data-theme="dark"] .btn-icon:hover {
+    background: rgba(126, 150, 193, 0.2);
+    color: var(--text-strong-dark);
+}
+
+:root[data-theme="dark"] .korean-name-romanization,
+:root[data-theme="dark"] #korean-name-romanization {
+    color: #A8BFFF;
+}
+
+:root[data-theme="dark"] .loading-overlay {
+    background: rgba(16, 21, 34, 0.95);
+}
+
+:root[data-theme="dark"] .loading-spinner {
+    border-color: rgba(126, 150, 193, 0.2);
+    border-top-color: var(--highlight);
+}
+
+:root[data-theme="dark"] .loading-text {
+    color: var(--text-strong-dark);
+}
+
+/* System dark mode */
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .btn-icon {
+        color: var(--text-muted-dark);
+    }
+
+    :root:not([data-theme="light"]) .btn-icon:hover {
+        background: rgba(126, 150, 193, 0.2);
+        color: var(--text-strong-dark);
+    }
+
+    :root:not([data-theme="light"]) .korean-name-romanization,
+    :root:not([data-theme="light"]) #korean-name-romanization {
+        color: #A8BFFF;
+    }
+
+    :root:not([data-theme="light"]) .loading-overlay {
+        background: rgba(16, 21, 34, 0.95);
+    }
+
+    :root:not([data-theme="light"]) .loading-spinner {
+        border-color: rgba(126, 150, 193, 0.2);
+        border-top-color: var(--highlight);
+    }
+
+    :root:not([data-theme="light"]) .loading-text {
+        color: var(--text-strong-dark);
+    }
+}
+
+
+/* ---- */
+/* Result Card Action Buttons    */
+/* ---- */
+
+.result-card-actions {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(35, 75, 122, 0.12);
+    flex-wrap: wrap;
+}
+
+.btn-action {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+    padding: 12px 16px;
+    min-width: 72px;
+    border: 1.4px solid rgba(35, 75, 122, 0.18);
+    border-radius: var(--radius-sm);
+    background: rgba(255, 255, 255, 0.9);
+    cursor: pointer;
+    transition: all 0.25s var(--transition);
+}
+
+.btn-action:hover {
+    background: rgba(35, 75, 122, 0.06);
+    border-color: rgba(35, 75, 122, 0.32);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(31, 36, 48, 0.1);
+}
+
+.btn-action:active {
+    transform: translateY(0);
+}
+
+.btn-action-icon {
+    font-size: 20px;
+    line-height: 1;
+}
+
+.btn-action-text {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.btn-action.btn-favorite.active,
+.btn-action.btn-favorite:has(.btn-action-icon:first-child:contains('⭐')) {
+    background: rgba(240, 180, 41, 0.12);
+    border-color: rgba(240, 180, 41, 0.4);
+}
+
+/* Korean name romanization on result screen */
+#korean-name-romanization {
+    display: block;
+    font-size: clamp(16px, 3vw, 20px);
+    color: var(--secondary);
+    margin-top: 8px;
+    font-style: italic;
+    letter-spacing: 0.02em;
+}
+
+/* ---- */
+/* Dark mode: Result Card Actions    */
+/* ---- */
+
+:root[data-theme="dark"] .result-card-actions {
+    border-top-color: rgba(126, 150, 193, 0.2);
+}
+
+:root[data-theme="dark"] .btn-action {
+    background: rgba(22, 29, 42, 0.9);
+    border-color: rgba(126, 150, 193, 0.28);
+}
+
+:root[data-theme="dark"] .btn-action:hover {
+    background: rgba(62, 87, 132, 0.22);
+    border-color: rgba(126, 150, 193, 0.45);
+    box-shadow: 0 8px 20px rgba(5, 10, 18, 0.4);
+}
+
+:root[data-theme="dark"] .btn-action-text {
+    color: var(--text-muted-dark);
+}
+
+:root[data-theme="dark"] #korean-name-romanization {
+    color: #8BA3D9;
+}
+
+/* System dark mode mirrors */
+@media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) .result-card-actions {
+        border-top-color: rgba(126, 150, 193, 0.2);
+    }
+
+    :root:not([data-theme="light"]) .btn-action {
+        background: rgba(22, 29, 42, 0.9);
+        border-color: rgba(126, 150, 193, 0.28);
+    }
+
+    :root:not([data-theme="light"]) .btn-action:hover {
+        background: rgba(62, 87, 132, 0.22);
+        border-color: rgba(126, 150, 193, 0.45);
+        box-shadow: 0 8px 20px rgba(5, 10, 18, 0.4);
+    }
+
+    :root:not([data-theme="light"]) .btn-action-text {
+        color: var(--text-muted-dark);
+    }
+
+    :root:not([data-theme="light"]) #korean-name-romanization {
+        color: #8BA3D9;
+    }
+}
